@@ -1,0 +1,5 @@
+- Entrada de solicitações
+
+# empregados bhub vem pelo  formis
+
+carnevalli e  contgesk envia pelo zendesk
