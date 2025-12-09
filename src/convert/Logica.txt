@@ -1,5 +1,5 @@
-- Entrada de solicitações
+# Acesar o zendesk
 
-# empregados bhub vem pelo  formis
+# Passar pela autenticação
 
-carnevalli e  contgesk envia pelo zendesk
+# Fazer o  download das demandas em aberto  e andamento'''''''

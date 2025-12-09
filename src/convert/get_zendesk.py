@@ -1,11 +1,15 @@
 from playwright.sync_api import sync_playwright, TimeoutError
 import time
+from playwright.sync_api import Playwright, expect
+from pathlib import Path
+# Playwright codegen https://bhubhelp.zendesk.com/agent/tickets/291849
 
 usuario = "marcelo.lsantos@bhub.ai"
 senha = "#Marcellus@2099"
 
 def executar():
     with sync_playwright() as p:
+
         browser = p.chromium.launch(headless=False)
         page = browser.new_page()
 
@@ -14,35 +18,48 @@ def executar():
         page.get_by_label("E-mail").fill(usuario)
         page.locator("input[type='password']").fill(senha)
         page.locator("#sign-in-submit-button").click()
+        page.wait_for_timeout(20000)
 
-        page.wait_for_timeout(2000)
 
         # --- DETECTA QUAL TELA APARECEU ---
         tela_verificacao_duas_etapas(page)
         tratar_duas_etapas(page)
 
-        # Vai para página principal
-        page.goto("https://bhubhelp.zendesk.com/agent/home/tickets")
-        time.sleep(10)
-
-        # Vai para página de filtros
-        page.goto("https://bhubhelp.zendesk.com/agent/filters/36022217770651")
-        print("🎉 Login concluído com sucesso!")
-     
-        time.sleep(10)
                 # Vai para página de id
-        page.goto("https://bhubhelp.zendesk.com/agent/tickets/291850")
-        print("🎉 Login concluído com sucesso!")
-        time.sleep(10)
+        page.goto("https://bhubhelp.zendesk.com/agent/tickets/291849")
 
-        page.goto("https://bhubhelp.zendesk.com/agent/tickets/291853")
-        time.sleep(10)
-        page.goto("https://bhubhelp.zendesk.com/agent/tickets/291852")
+        page.locator("[data-test-id=\"omnipanel-selector-item-apps-add-appShortcuts-icon\"]").click()
+        #1
+        page.get_by_role("menuitem", name="Download All Attachments").click()
 
-        time.sleep(10)
-        # Aguarda 60 segundos antes de fechar
-        print("⏳ Aguardando 60 segundos antes de fechar o navegador...")
-        time.sleep(60)
+
+        save_path = Path(__file__).resolve().parent / "arq_save"
+        time.sleep(5)
+        page.locator("[data-test-id=\"omnipanel-selector-item-app-shortcuts\"]").click()
+        page.locator(".sc-8c77jc-0").click()
+        time.sleep(5)
+
+        save_path = Path(__file__).resolve().parent / "arq_save"
+        save_path.mkdir(parents=True, exist_ok=True)
+
+        # Espera e seleciona o iframe cujo name começa com o prefixo fixo
+        iframe_locator = page.frame_locator("iframe[name^='app_Download-All-Attachments_ticket_sidebar']")
+        btn = iframe_locator.get_by_role("button", name="Download all attachments")
+
+        # Garante que o botão esteja visível antes de clicar
+        expect(btn).to_be_visible(timeout=10000)
+
+        # Captura o download gerado pelo clique no botão dentro do iframe
+        with page.expect_download() as download_info:
+            btn.click()
+
+        download = download_info.value
+        download.save_as(str(save_path / download.suggested_filename))
+
+
+
+
+        time.sleep(120)
         browser.close()
         print("🔒 Navegador fechado.")
 
@@ -110,6 +127,7 @@ def esperar_codigo_usuario(timeout=120):
             return codigo
 
     return None
+    
     
 
 # ============================================================
