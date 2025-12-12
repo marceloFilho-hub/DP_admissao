@@ -1,0 +1,13 @@
+*.env
+senhas.py
+credentials/*.json
+# Virtual environment
+.venv/
+venv/
+
+# Arquivos grandes/temporários
+*.zip
+__pycache__/
+arq_descompactado/
+csv/
+temp_extract/

@@ -1,5 +1,0 @@
-# Acesar o zendesk
-
-# Passar pela autenticação
-
-# Fazer o  download das demandas em aberto  e andamento'''''''

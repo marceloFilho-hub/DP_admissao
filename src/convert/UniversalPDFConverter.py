@@ -3,7 +3,7 @@ from pathlib import Path
 from PIL import Image
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
-import csv''
+import csv
 
 # =====================================================
 # CONFIGURAÇÕES DE DIRETÓRIO (FUNCIONA EM QUALQUER PC)
