@@ -4,37 +4,36 @@ from PIL import Image
 from reportlab.lib.pagesizes import A4
 from reportlab.pdfgen import canvas
 import csv
+from docx import Document
 
 # =====================================================
-# CONFIGURAÇÕES DE DIRETÓRIO (FUNCIONA EM QUALQUER PC)
+# CONFIGURAÇÕES DE DIRETÓRIO
 # =====================================================
 BASE_DIR = Path(__file__).resolve().parents[2]
 
-INPUT_DIR = BASE_DIR / "src" / "input_files"/ "RG"
-OUTPUT_DIR = BASE_DIR / "src" / "documentos_pdf"
+INPUT_DIR = BASE_DIR / "src" / "convert" / "arq_descompactado"
 
 SUPPORTED_IMAGE_EXT = ["png", "jpg", "jpeg", "bmp", "tiff"]
 SUPPORTED_TEXT_EXT = ["txt"]
 SUPPORTED_CSV_EXT = ["csv"]
+SUPPORTED_DOCX_EXT = ["docx"]
 
 
 class UniversalPDFConverter:
 
-    def __init__(self, output_dir: Path):
-        self.output_dir = Path(output_dir)
-        self.output_dir.mkdir(exist_ok=True, parents=True)
-
     def _generate_output_path(self, input_path: str) -> Path:
-        filename = Path(input_path).stem + ".pdf"
-        return self.output_dir / filename
+        input_path = Path(input_path)
+        return input_path.with_suffix(".pdf")  # => mantém mesma pasta
 
     def convert(self, filepath: str) -> Path:
         ext = Path(filepath).suffix.lower().replace(".", "")
 
         if ext == "pdf":
-            pdf_path = self._generate_output_path(filepath)
-            os.replace(filepath, pdf_path)
-            return pdf_path
+            return Path(filepath)
+        
+        if ext in SUPPORTED_DOCX_EXT:
+            return self._convert_docx_to_pdf(filepath)
+
 
         if ext in SUPPORTED_IMAGE_EXT:
             return self._convert_image_to_pdf(filepath)
@@ -91,7 +90,6 @@ class UniversalPDFConverter:
 
         with open(input_path, "r", encoding="utf-8") as f:
             reader = csv.reader(f)
-
             for row in reader:
                 linha = " | ".join(row)
                 if y < 40:
@@ -103,33 +101,85 @@ class UniversalPDFConverter:
         c.save()
         return pdf_path
 
+    # =====================================================
+    # 4. DOCX → PDF
+    # =====================================================
+    def _convert_docx_to_pdf(self, input_path):
+        pdf_path = self._generate_output_path(input_path)
+
+        doc = Document(input_path)
+
+        c = canvas.Canvas(str(pdf_path), pagesize=A4)
+        width, height = A4
+        y = height - 50
+
+        def new_page():
+            nonlocal y
+            c.showPage()
+            y = height - 50
+
+        # Processa parágrafos
+        for paragraph in doc.paragraphs:
+            text = paragraph.text.strip()
+
+            if text:
+                if y < 50:
+                    new_page()
+                c.drawString(40, y, text)
+                y -= 18
+
+        # Processa tabelas
+        for table in doc.tables:
+            for row in table.rows:
+                linha = " | ".join(
+                    cell.text.strip().replace("\n", " ")
+                    for cell in row.cells
+                )
+
+                if y < 50:
+                    new_page()
+
+                c.drawString(40, y, linha)
+                y -= 18
+
+        c.save()
+        return pdf_path
+
 
 # =====================================================
-# MÓDULO PRINCIPAL — AUTOMATIZA TUDO
+# PROCESSAMENTO RECURSIVO EM TODAS AS SUBPASTAS
 # =====================================================
 if __name__ == "__main__":
 
-    print(f"[INFO] Procurando arquivos em: {INPUT_DIR}")
+    converter = UniversalPDFConverter()
 
-    converter = UniversalPDFConverter(OUTPUT_DIR)
+    print(f"[INFO] Escaneando pastas em: {INPUT_DIR}\n")
 
-    arquivos = list(INPUT_DIR.iterdir())
+    # percorre TODAS as pastas recursivamente
+    for root, dirs, files in os.walk(INPUT_DIR):
 
-    if not arquivos:
-        print("[AVISO] Nenhum arquivo encontrado em input_files.")
-        exit()
+        for file in files:
+            filepath = Path(root) / file
+            ext = filepath.suffix.lower().replace(".", "")
 
-    for file in arquivos:
-        try:
-            print(f"[PROCESSANDO] {file.name}")
-            pdf_path = converter.convert(str(file))
-            print(f"[OK] Gerado: {pdf_path}")
+            # ignora PDFs (já são finais)
+            if ext == "pdf":
+                continue
 
-        except Exception as e:
-            print(f"[ERRO] Não foi possível converter {file.name} → {e}")
+            try:
+                print(f"[PROCESSANDO] {filepath}")
+                pdf_path = converter.convert(str(filepath))
 
-    print(f"\n[TUDO CONCLUÍDO]")
-    print(f"PDFs disponíveis em: {OUTPUT_DIR}")
+                # remove o arquivo original
+                os.remove(filepath)
+
+                print(f"[OK] Gerado: {pdf_path}")
+
+            except Exception as e:
+                print(f"[ERRO] Falha ao converter {filepath} → {e}")
+
+    print("\n[TUDO CONCLUÍDO]")
+
 
 
 
