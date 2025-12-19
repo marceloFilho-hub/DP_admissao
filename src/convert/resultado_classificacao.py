@@ -1,24 +1,21 @@
-from dataclasses import dataclass, field
-from typing import Dict, Optional
-
-
-@dataclass
 class ResultadoClassificacao:
-    arquivo: str = ""
-    categoria: str = ""
-    score_regras: float = 0.0
-    score_ocr: float = 0.0
-    rotacao: int = 0
-    campos: Optional[Dict] = None
+    def __init__(
+        self,
+        arquivo: str,
+        categoria: str,
+        subcategoria: str | None,
+        score_regras: float,
+        score_ocr: float,
+        rotacao: int,
+        score_final: float
+    ):
+        self.arquivo = arquivo
+        self.categoria = categoria
+        self.subcategoria = subcategoria
+        self.score_regras = score_regras
+        self.score_ocr = score_ocr
+        self.rotacao = rotacao
+        self.score_final = score_final
 
-    score_final: float = field(init=False)
-
-    def __post_init__(self):
-        peso_regras = 0.6
-        peso_ocr = 0.4  
-
-        self.score_final = round(
-            (self.score_regras * peso_regras) +
-            (self.score_ocr * peso_ocr),
-            3
-        )
+        # Campos extraídos posteriormente
+        self.campos = {}

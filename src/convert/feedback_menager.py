@@ -111,25 +111,27 @@ class FeedbackManager:
         """
         feedbacks = []
 
+        if not self.doc_csv.exists():
+            return feedbacks
+
         with self.doc_csv.open(mode="r", encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
-                if row["categoria_correta"]:
+                if row.get("categoria_correta"):
                     feedbacks.append(row)
 
         return feedbacks
 
-    def carregar_feedbacks_campos(self) -> list[dict]:
-        """
-        Retorna apenas campos corrigidos pelo humano.
-        """
+
+    def carregar_feedbacks_documentos(self):
         feedbacks = []
 
-        with self.campo_csv.open(mode="r", encoding="utf-8") as f:
+        with self.doc_csv.open("r", encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
-                if row["valor_correto"]:
+                if row.get("categoria_correta"):
                     feedbacks.append(row)
 
         return feedbacks
+
 

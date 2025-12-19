@@ -1,10 +1,13 @@
+#maquinaOCR.py
 from pathlib import Path
 import json
-
-from ocr_engine import OCREngine
 from classifier_service import ClassifierService
 from entity_extractor import EntityExtractor
 from feedback_menager import FeedbackManager
+from ocr_engine import OCREngine
+
+
+
 
 
 if __name__ == "__main__":
@@ -29,7 +32,9 @@ if __name__ == "__main__":
 
             novo_pdf, resultado = classifier_service.classify_and_rename(pdf, texto)
 
-            campos = entity_extractor.extract(texto)
+            campos = entity_extractor.extract(texto, resultado.categoria)
+
+
             resultado.campos = campos
 
             feedback_manager.registrar_campos(resultado)

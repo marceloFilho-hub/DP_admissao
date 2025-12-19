@@ -5,5 +5,9 @@
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
         }
+    ],
+    "python.analysis.extraPaths": [
+        "./src/convert/document_classifier",
+        "./src/convert/document_classifier"
     ]
 }
