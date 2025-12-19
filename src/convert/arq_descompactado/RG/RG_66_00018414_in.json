@@ -1,0 +1,54 @@
+{
+  "rg": {
+    "valor": "598197448",
+    "score": 0.9,
+    "fonte": "regex",
+    "evidencias": [
+      "regex_rg",
+      "contexto_rg",
+      "tamanho_valido"
+    ]
+  },
+  "nome": {
+    "valor": "RAMOS FILIACAO",
+    "score": 0.8,
+    "fonte": "heuristica",
+    "evidencias": [
+      "rotulo_nome",
+      "nome_composto",
+      "sem_numeros"
+    ]
+  },
+  "data_nascimento": {
+    "valor": "2006-07-28",
+    "score": 0.9,
+    "fonte": "regex",
+    "evidencias": [
+      "data_valida",
+      "contexto_nascimento"
+    ]
+  },
+  "data_expedicao": {
+    "valor": "1980-03-08",
+    "score": 0.85,
+    "fonte": "regex",
+    "evidencias": [
+      "data_valida",
+      "contexto_expedicao"
+    ]
+  },
+  "naturalidade": {
+    "valor": "SETUBINHA-MG DATA DE NASCIMENTO",
+    "score": 0.7,
+    "fonte": "regex",
+    "evidencias": [
+      "contexto_naturalidade"
+    ]
+  },
+  "filiacao": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  }
+}

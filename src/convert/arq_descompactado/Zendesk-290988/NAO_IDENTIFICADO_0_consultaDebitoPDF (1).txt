@@ -1,0 +1,74 @@
+PEDRO LENCI DE SOUZA AGUIAR
+Código do cliente: 16688837
+R ELVIRA FERRAZ 83 - APTO 61 - SAO PAULO
+CPF/CNPJ: 052.259.259-79 / IE: 000.000.000.000
+NOTA FISCAL / CONTA DE GÁS
+134.498.982
+CÓDIGO USUÁRIO: 59171294
+Segmento Residencial Data de apresentação 13.11.2025 Vencimento Valor a pagar (R$)
+Tipo de conta Normal Data da leitura anterior 09.10.2025 19.11.2025 359,80
+Dias de consumo 32 Dias Data da leitura atual 10.11.2025
+Mês de referência: nov/2025
+Data de emissão 12.11.2025 Data da próxima leitura 10.12.2025
+Sua Conta de gás Consumo e tarifas
+Consumo Tarifa Aplicada Fornecimento
+Fornecimento de Gás Natural R$ 359,80 Corrigido/Faturado com ICMS de gás natural
+33.929 R$10,604498 R$ 359,80
+Dados tarifários Fixo Variável
+(m³/mês) (R$) (R$)
+33,929 24,42- 9,7335900
+Total R$ 359,80
+Impostos
+BC ICMS Reduzida - Conv.18/92 RICMS/SP art.8º Anexo II
+Base de Cálculo %ICMS Valor ICMS
+R$ 299,83 18,00 R$ 53,97
+O atraso no pagamento desta conta por prazo superior à 15 dias poderá acarretar na interrupção do fornecimento de gás para
+Base de Cálculo da Substituição Tributária
+todos os segmentos, exceto os segmentos Residencial e Residencial Coletivo, cujo prazo é de 30 dias. (Somente ara unidades usuárias de GNV)
+Débito automático conta de gás 10/2025 liquidada Base de Cálculo %ICMS Valor ICMS
+R$ 0,00 0,00 R$ 0,00
+Valor PIS Valor COFINS
+R$ 5,05 R$ 23,24
+Impostos Estaduais Impostos Federais Total de Impostos
+R$ 53,97 R$ 28,29 R$ 82,26
+Seu histórico
+Últimos 12 meses (em m³)
+Consumo Consumo
+Medido Corrigido:
+OUT/2025 lllllllllllllllllllllllllllllllllllllll 31,00 30,17
+SET/2025 llllllllllllllllllll 15,00 14,66
+AGO/2025 lllllllllll 8,00 7,76
+JUL/2025 lllllllllllllllllllllllllllllll 24,00 23,55
+JUN/2025 llllllllllllllllllllllllllllllllllllllllllllllllll 40,00 39,31
+MAI/2025 llllllllllllllllllllllllllllllllllllllll 31,00 30,48
+ABR/2025 llllllllllllllllllllllllll 20,00 19,63
+MAR/2025 lllllllllllllllllllllll 18,00 17,59
+FEV/2025 llllllllllllllllllllllllllllllllllllll 30,00 29,10
+JAN/2025 llllllllllll 9,00 8,57
+LD2.5 C17L0130227D 1.874 1.839 35 1,0000 1,0000 0,9466 1,0241 33.929 D N E O Z V / / 2 2 0 0 2 2 4 4 l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l l llllll 2 18 3 , , 0 0 0 0 2 1 1 7 , , 8 15 5
+Reservado ao Fisco 2f20.a91c.be06.79cc.7e73.8a20.aba3.f708 Via do usuário - Autenticação mecânica
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Nota Fiscal / Conta de Gás Nº 134.498.982
+Usuário: PEDRO LENCI DE SOUZA AGUIAR
+Código do Usuário Mês de Referência Vencimento Valor Total a Pagar (R$)
+59171294 nov/2025 19.11.2025 359,80
+Para Cadastramento em Débito Automático
+Banco Agência Código
+077 0001 59171294
+O pagamento desta conta não quita débitos anteriores. Sobre o valor pago após o vencimento incidirá multa de 2% e juros de mora de 0,033% ao
+dia, incluídos em conta futura (Port. CSPE n.156/01). O não pagamento poderá levar a protesto e/ou negativação, cobrança de despesas e demais
+emolumentos (Lei Fed. 9492/97).
+Verifique se ocorreu débito automático em sua conta corrente, no vencimento. Se, por qualquer motivo o débito não for efetuado, utilize esta nota
+fiscal / conta de gás para o pagamento em qualquer banco autorizado.
+Bancos autorizados a receber essa conta: Banco do Brasil*, Banco Inter*, Banco Original*, Bradesco*,C6 Bank*, Itaú*, Nubank*, PicPay*,
+Safra* e Santander. (*exceto boca de caixa)
+Autenticação Mecânica
+836900000032 598000577455 004390757005 005917129404
+DÉBITO AUTOMÁTICO
+NOTA FISCAL / CONTA DE GÁS
+Usuário Mês de Referência
+PEDRO LENCI DE SOUZA AGUIAR nov/2025
+Endereço (Correspondência) Vencimento
+R ELVIRA FERRAZ 83 APTO 61 19.11.2025
+04552-040 SAO PAULO SP
+-13449898200005917129406B045BDSEG

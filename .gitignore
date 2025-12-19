@@ -7,14 +7,15 @@ venv/
 
 # Arquivos grandes/temporários
 *.zip
-__pycache__/
-arq_descompactado/
+__pycache__/*.*
+arq_descompactado/*.*
 csv/*.*
-temp_extract/
+temp_extract/*.*
 documentos_pdf/
 src/documentos_pdf
 src/convert/csv/*.*
 src/convert/arq_save/*.*
 src/convert/temp_extract/*.*
 src/convert/documentos_pdf/*.*
-data/
+data/*.*
+src/convert/arq_descompactado/*.*

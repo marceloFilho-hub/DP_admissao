@@ -1,0 +1,38 @@
+{
+  "rg": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "nome": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "data_nascimento": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "data_expedicao": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "naturalidade": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "filiacao": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  }
+}

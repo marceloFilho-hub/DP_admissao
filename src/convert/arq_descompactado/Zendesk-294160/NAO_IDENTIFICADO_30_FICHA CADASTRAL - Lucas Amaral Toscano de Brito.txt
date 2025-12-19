@@ -1,0 +1,40 @@
+Planilha para Cadastro de Funcionário
+Dados Gerais
+Funcão : Analista de M&A I Salário : R$ 7.504,95
+Data de Admissão : 02/01/2026 Horário : 08h às 18h
+Banco : ________________ Agência : ____________ Conta Corrente _____________________
+Valor de Vale Transporte : ________________________ [ ] Pagou Contrib. Sindical [x] Fez
+exame Médico Resp. : Sim, apto
+Tipo de contrato: (x)Presencial ( )Home office ( )Híbrido
+Dados Pessoais
+•
+Nome : Lucas Amaral Toscano de Brito
+Endereço : Rua Alvorada Número : 1117
+Complemento : _________________________________________________ CEP : 045500-04
+Bairro : Vila Olimpia Cidade : São Paulo UF : SP
+Nome do Pai : Antonio Carlos Oliveira Toscano de Brito
+Nome da Mãe : Silvia Rejane Louredo do Amaral
+Sexo [ X ] Masculino Naturalidade : Pernambucano Nacionalidade : Brasileiro
+[ ] Feminino
+Ano Cheg.: _____ Raça / Cor [ ] Indígena [x] Branca [ ] Preta [ ] Amarela [ ] Parda
+Escolaridade : [ ] Analfabeto [ ] Primário [ ] Ginásio [ ] 2º Grau [ x ] Superior
+[ x ] Completo [ ] Incompleto
+Nascimento : 20/04/2002 Tipo Sanguíneo : _____ Telefone : (81)99116-4145
+Estado Cívil : [ x ] Solteiro [ ] Casado [ ] Separado [ ] Divorciado [ ] Víuvo
+Email : lucas.toscano92@gmail.com [ ] Hobby Quais ? _________________________
+[ ] Deficiente Físico [ ] Sindicalizado [ ] Fumante
+• Documentação
+IDENTIDADE : 10.265.055 UF : PE Orgão Emissor : SDS Emissão : 18/11/2015
+CARTEIRA DE TRABALHO : ________________ Série : ______ Data : ___/___/____ UF : ______
+CARTEIRA DE HABILITAÇÃO : _____________ Vencimento : ___/___/____
+CPF : 709.162.124-75 PIS/PASEP : ________________________ Data : ___/___/___
+BANCO : ___________ AGÊNCIA : ________ ENDEREÇO : ___________________________________
+TÍTULO DE ELEITOR : 0995 7796 0884 UF : PE Seção : 0153 Zona : 101
+CERTIDÃO DE [ ] NASCIMENTO [ ] CASAMENTO Número : __________ Cidade : _____________
+Livro: __________________ Folha: _____________________ Data de Emissão: ___/___/_______
+CERTIFICADO DE RESERVISTA: 32.000.471062-2 Série: _____ Data de Emissão: 16/12/2020
+CSM / DAM: _______________________________ RM / DN: ___________________________________
+Página 2/2
+Dependentes para I.R.
+Nome Parentesco Data CPF:
+Nascimento

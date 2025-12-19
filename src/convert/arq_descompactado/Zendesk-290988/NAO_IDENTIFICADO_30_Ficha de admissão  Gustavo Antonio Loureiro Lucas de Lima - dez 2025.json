@@ -1,0 +1,44 @@
+{
+  "rg": {
+    "valor": "562499465",
+    "score": 0.7,
+    "fonte": "regex",
+    "evidencias": [
+      "regex_rg",
+      "tamanho_valido"
+    ]
+  },
+  "nome": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "data_nascimento": {
+    "valor": "2004-06-26",
+    "score": 0.9,
+    "fonte": "regex",
+    "evidencias": [
+      "data_valida",
+      "contexto_nascimento"
+    ]
+  },
+  "data_expedicao": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "naturalidade": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "filiacao": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  }
+}

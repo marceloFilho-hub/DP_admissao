@@ -1,0 +1,54 @@
+{
+  "rg": {
+    "valor": "483320420",
+    "score": 0.9,
+    "fonte": "regex",
+    "evidencias": [
+      "regex_rg",
+      "contexto_rg",
+      "tamanho_valido"
+    ]
+  },
+  "nome": {
+    "valor": "CLAREANA ZEMLICKAS FONTELA",
+    "score": 0.8,
+    "fonte": "heuristica",
+    "evidencias": [
+      "rotulo_nome",
+      "nome_composto",
+      "sem_numeros"
+    ]
+  },
+  "data_nascimento": {
+    "valor": "2013-09-03",
+    "score": 0.9,
+    "fonte": "regex",
+    "evidencias": [
+      "data_valida",
+      "contexto_nascimento"
+    ]
+  },
+  "data_expedicao": {
+    "valor": "1993-09-18",
+    "score": 0.85,
+    "fonte": "regex",
+    "evidencias": [
+      "data_valida",
+      "contexto_expedicao"
+    ]
+  },
+  "naturalidade": {
+    "valor": "ITU-SP DATA DE NASCIMENTO",
+    "score": 0.7,
+    "fonte": "regex",
+    "evidencias": [
+      "contexto_naturalidade"
+    ]
+  },
+  "filiacao": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  }
+}

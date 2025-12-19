@@ -1,0 +1,54 @@
+{
+  "rg": {
+    "valor": "479052153",
+    "score": 0.9,
+    "fonte": "regex",
+    "evidencias": [
+      "regex_rg",
+      "contexto_rg",
+      "tamanho_valido"
+    ]
+  },
+  "nome": {
+    "valor": "TACON VISSOTTO MOTTI",
+    "score": 0.8,
+    "fonte": "heuristica",
+    "evidencias": [
+      "rotulo_nome",
+      "nome_composto",
+      "sem_numeros"
+    ]
+  },
+  "data_nascimento": {
+    "valor": "1989-06-01",
+    "score": 0.9,
+    "fonte": "regex",
+    "evidencias": [
+      "data_valida",
+      "contexto_nascimento"
+    ]
+  },
+  "data_expedicao": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "naturalidade": {
+    "valor": "AMAPORA-PR DATA DE NASCIMENTO",
+    "score": 0.7,
+    "fonte": "regex",
+    "evidencias": [
+      "contexto_naturalidade"
+    ]
+  },
+  "filiacao": {
+    "valor": "CLEUBY KATARI FUKUN NATURALIDADE",
+    "score": 0.8,
+    "fonte": "heuristica",
+    "evidencias": [
+      "rotulo_filiacao",
+      "nome_composto"
+    ]
+  }
+}

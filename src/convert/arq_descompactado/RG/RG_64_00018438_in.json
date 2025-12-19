@@ -1,0 +1,41 @@
+{
+  "rg": {
+    "valor": "677662971",
+    "score": 0.7,
+    "fonte": "regex",
+    "evidencias": [
+      "regex_rg",
+      "tamanho_valido"
+    ]
+  },
+  "nome": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "data_nascimento": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "data_expedicao": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "naturalidade": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  },
+  "filiacao": {
+    "valor": null,
+    "score": 0.0,
+    "fonte": null,
+    "evidencias": []
+  }
+}
