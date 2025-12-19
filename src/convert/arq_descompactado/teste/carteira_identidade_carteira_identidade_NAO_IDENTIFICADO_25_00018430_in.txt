@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade, conforme indicado pelo título \"CARTEIRA DE IDENTIDADE\" e pela estrutura padrão de um RG brasileiro, mencionando o \"ESTADO DO MARANHÃO\", \"INSTITUTO DE IDENTIFICAÇÃO\" e campos como \"NOME\", \"FILIAÇÃO\", \"DATA DE NASCIMENTO\" e \"REGISTRO GERAL\". Pontos Principais: O documento visa comprovar a identidade civil do titular perante a lei, emitido pelo órgão de segurança pública do estado. Informações Relevantes: Nome do Titular: SAKASHITA PIPOLO AMOASEI; Filiação: URURAHY SCALIZE GUADAGNINI; Data de Nascimento: 20/11/1956; Registro Geral: 85.666.301-3; CPF: 440.812.560-12; Naturalidade: ATALAIA-AL; Data de Expedição: 23/09/1967."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:33:21.573236Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 256,
+        "tempo_processamento": 3.078552
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade, conforme indicado explicitamente pelos títulos 'CARTEIRA DE IDENTIDADE' na parte superior direita e pelas informações típicas como 'REGISTRO GERAL', 'NOME', 'FILIAÇÃO', 'DATA DE NASCIMENTO', 'NATURALIDADE' e menção ao 'INSTITUTO DE IDENTIFICAÇÃO DO PARANÁ'.\nPontos Principais: O documento serve para comprovar a identidade civil da titular, CLAREANA ZEMLICKAS FONTELA, no território nacional, emitido pelo Instituto de Identificação do Paraná. Ele contém dados pessoais básicos e elementos de segurança como a impressão digital ('POLEGAR DIREITO').\nInformações Relevantes: \n- Número do Documento (RG): 75.278.035-9\n- Registro Geral (RG): 48.332.042-0\n- Nome: CLAREANA ZEMLICKAS FONTELA\n- Filiação: RUIC LUCHETE T e BERNINI CASTANHO OPDEB\n- Data de Nascimento: 03/09/2013\n- Data de Expedição: 18/09/1993 (Nota: Há uma aparente inconsistência entre a data de nascimento e a de expedição, comum em documentos antigos ou com correções).\n- Naturalidade: ITU-SP\n- Validade: VÁLIDA EM TODO O TERRITÓRIO NACIONAL"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:33:09.079479Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 361,
+        "tempo_processamento": 3.416983
+    }
+}

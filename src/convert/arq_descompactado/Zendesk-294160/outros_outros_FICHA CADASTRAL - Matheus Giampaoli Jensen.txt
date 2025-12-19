@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "outros",
+        "document_description": "Justificativa da Classificação: O documento é uma \"Planilha para Cadastro de Funcionário\", que coleta dados pessoais, dados gerais do vínculo empregatício (função, salário, data de admissão) e informações documentais de um novo colaborador. Não se enquadra em nenhuma das categorias financeiras, legais ou fiscais específicas listadas (como nota fiscal, boleto, contrato, etc.), sendo classificado como \"outros\" por ser um formulário interno de RH.\nPontos Principais: O objetivo principal é cadastrar as informações de um funcionário recém-admitido, Matheus Giampaoli Jensen, cobrindo dados pessoais, informações de emprego e documentação civil/trabalhista.\nInformações Relevantes: Nome: Matheus Giampaoli Jensen; Função: Analista de M&A I; Salário: R$ 7.504,95; Data de Admissão: 02/01/2026; CPF: 400.927.588-00; Identidade: 50.2491747-7; Título de Eleitor: 466 1922 0175."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:34:31.434590Z",
+        "tokens_entrada": 787,
+        "tokens_saida": 288,
+        "tempo_processamento": 2.773011
+    }
+}

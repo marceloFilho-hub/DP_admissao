@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente identificado como \"CARTEIRA DE IDENTIDADE\" e apresenta elementos típicos deste tipo de documento, como o órgão emissor (\"ESTADO DO ESPÍRITO SANTO - POLICIA CIVIL\"), número de registro, nome do titular, filiação, data de expedição e data de nascimento.\nPontos Principais: O objetivo principal do documento é servir como prova oficial de identidade do cidadão no território nacional, conforme indicado por \"VÁLIDA EM TODO O TERRITÓRIO NACIONAL\".\nInformações Relevantes: \n- Registro Geral: 70.610.353-1\n- Nome: CAZELLI CLEMENCIO VALDIR\n- Data de Nascimento: 05/08/1967\n- Data de Expedição: 03/02/1991\n- Naturalidade: BORA-SP\n- CPF: 105.432.113-20\n- Validade: 21.05.2016"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:32:59.561611Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 267,
+        "tempo_processamento": 3.310954
+    }
+}

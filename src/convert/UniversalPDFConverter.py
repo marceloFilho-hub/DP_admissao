@@ -6,6 +6,7 @@ from reportlab.pdfgen import canvas
 import csv
 from docx import Document
 
+
 # =====================================================
 # CONFIGURAÇÕES DE DIRETÓRIO
 # =====================================================

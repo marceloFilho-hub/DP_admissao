@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG), conforme indicado pelo título explícito \"CARTEIRA DE IDENTIDADE\" e pela menção a órgãos emissores como \"ESTADO DE SÃO PAULO\", \"SECRETARIA DA SEGURANÇA PÚBLICA\" e \"INSTITUTO DE IDENTIFICAÇÃO RICARDO GUMBLETON DAUNT\".\nPontos Principais: O documento serve para identificação civil de seu portador, contendo dados pessoais, filiação, data de nascimento e informações de registro.\nInformações Relevantes: Nome: NUNCIARONI VAINER MAZORCA; Data de Nascimento: 01/06/1999; Data de Expedição: 12/09/2009; Registro Geral (RG): 13.870.570-7; Naturalidade: COLIDER-MT; Documento de Origem: ITU-SP."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:32:50.221134Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 236,
+        "tempo_processamento": 2.929286
+    }
+}

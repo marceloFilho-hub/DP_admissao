@@ -7,9 +7,6 @@ from feedback_menager import FeedbackManager
 from ocr_engine import OCREngine
 
 
-
-
-
 if __name__ == "__main__":
 
     BASE_DIR = Path(__file__).resolve().parents[2]

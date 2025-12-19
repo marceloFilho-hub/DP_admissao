@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "outros",
+        "document_description": "Justificativa da Classificação: O documento é uma \"DECLARAÇÃO DE ENCARGOS DE FAMÍLIA PARA FINS DE IMPOSTO DE RENDA\", preenchida por um funcionário (Maiara Barcelos Pontes) para a empresa (SOMA CENARIOS E EVENTOS LTDA), informando um dependente (Gael Ferreira Alves). Embora contenha informações relacionadas ao Imposto de Renda, não se enquadra estritamente como 'guia_imposto' (que seria um documento de arrecadação/pagamento) ou 'informe_rendimentos'. A categoria mais adequada é 'outros' para declarações internas fiscais de encargos.\n\nPontos Principais: O documento formaliza a declaração de dependente para dedução fiscal (Imposto de Renda). A declarante afirma ter um dependente, o filho Gael Ferreira Alves, nascido em 18/03/2020, com menos de 21 anos.\n\nInformações Relevantes: Empresa: SOMA CENARIOS E EVENTOS LTDA (C.N.P.J: 30048423000142). Dependente: GAEL FERREIRA ALVES, Filho(a) ou enteado(a) até 21 anos, Data de Nascimento: 18/03/2020. Declarante: MAIARA BARCELOS PONTES (CPF: 182.193.077-06). Data da Declaração: 12 de Dezembro de 2025."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:35:14.264513Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 371,
+        "tempo_processamento": 2.250711
+    }
+}

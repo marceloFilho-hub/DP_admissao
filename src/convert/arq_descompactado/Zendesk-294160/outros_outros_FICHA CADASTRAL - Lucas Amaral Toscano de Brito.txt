@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "outros",
+        "document_description": "Justificativa da Classificação: O documento é intitulado \"Planilha para Cadastro de Funcionário\" e contém seções para \"Dados Gerais\", \"Dados Pessoais\" e \"Documentação\", além de uma seção para \"Dependentes para I.R.\" (Imposto de Renda). Trata-se de um formulário interno de recursos humanos ou admissão, não se enquadrando nas categorias financeiras, legais ou de identificação padronizadas, sendo classificado como 'outros'.\nPontos Principais: O principal objetivo do documento é coletar e organizar todas as informações cadastrais, pessoais, contratuais e documentais de um novo funcionário, Lucas Amaral Toscano de Brito, para fins de registro interno e processamento de RH.\nInformações Relevantes: \n- Função: Analista de M&A I\n- Salário: R$ 7.504,95\n- Data de Admissão: 02/01/2026\n- Nome: Lucas Amaral Toscano de Brito\n- CPF: 709.162.124-75\n- Escolaridade: Superior Completo\n- Título de Eleitor: 0995 7796 0884 (PE)\n- Certificado de Reservista: 32.000.471062-2 (Data de Emissão: 16/12/2020)"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:34:27.783128Z",
+        "tokens_entrada": 787,
+        "tokens_saida": 349,
+        "tempo_processamento": 2.31191
+    }
+}

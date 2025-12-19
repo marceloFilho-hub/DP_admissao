@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG), conforme indicado pelos títulos \"CARTEIRA DE IDENTIDADE\" e o contexto de órgãos emissores como \"INSTITUTO DE IDENTIFICAÇÃO DO PARANÁ\", além da presença de dados típicos como \"NOME\", \"FILIAÇÃO\", \"DATA DE NASCIMENTO\", \"REGISTRO GERAL\" e a seção para impressão digital (\"POLEGAR DIREITO\").\n\nPontos Principais: O documento serve como prova de identificação civil do portador no território nacional, emitido pelo Estado do Paraná, e contém informações biográficas essenciais e características de segurança como o aviso \"É PROIBIDO PLASTIFICAR\".\n\nInformações Relevantes: \n- Nome: MARION NENIS FACCIONE\n- Filiação: ANGELICO BASSA MENEGHELLI GOTTARDO ID\n- Data de Nascimento: 21/12/1959\n- Registro Geral (RG): 55.892.220-0\n- Data de Expedição: 19/02/1976\n- Número de Protocolo/Série: 31.402.634-4\n- Naturalidade: ITU-SP"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:32:46.538901Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 314,
+        "tempo_processamento": 3.519263
+    }
+}

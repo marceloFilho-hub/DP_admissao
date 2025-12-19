@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "boleto",
+        "document_description": "Justificativa da Classificação: O documento é claramente identificado como um boleto bancário devido à presença de logotipos do Bradesco, códigos de barras (implícitos nos números longos), campos típicos como 'Local de Pagamento', 'Cedente', 'Sacado', 'Vencimento', 'Valor Documento' e 'Nosso Número'. Ele serve como uma cobrança formal de pagamento. Pontos Principais: Trata-se de um boleto para pagamento da contribuição social de dezembro de 2025 do 'Esporte Clube Pinheiros' para o associado ERIK FERRAZ RONAY, no valor de R$ 590,00, com vencimento em 10/12/2025. Instruções detalham penalidades por atraso. Informações Relevantes: Valor: R$ 590,00; Vencimento: 10/12/2025; Cedente: Esporte Clube Pinheiros; Sacado: ERIK FERRAZ RONAY; Instrução de Multa: 2% mais 0,033% por dia de atraso após o vencimento."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:33:30.026039Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 274,
+        "tempo_processamento": 3.292776
+    }
+}

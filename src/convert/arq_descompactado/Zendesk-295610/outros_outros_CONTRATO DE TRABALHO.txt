@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "outros",
+        "document_description": "Justificativa da Classificação: O documento é um Contrato de Experiência, um tipo específico de acordo de trabalho. Como não há uma categoria 'contrato_trabalho' na lista fornecida, a categoria mais apropriada é 'outros'.\nPontos Principais: Este é um Contrato de Experiência firmado entre a empresa SOMA CENARIOS E EVENTOS LTDA (EMPREGADOR) e MAIARA BARCELOS PONTES (EMPREGADO), com vigência de 45 dias, iniciando em 12/12/2025 e terminando em 10/01/2026, com possibilidade de prorrogação por mais 45 dias.\nInformações Relevantes: \n- EMPREGADOR: SOMA CENARIOS E EVENTOS LTDA.\n- EMPREGADO: MAIARA BARCELOS PONTES (CTPS n° 1821930 Série 7706).\n- Função: MONITOR(A).\n- Remuneração: R$ 1.650,00 por mês.\n- Data de celebração: Rio de Janeiro, 12 de Dezembro de 2025.\n- Cláusulas importantes cobrem função, horário, local de trabalho, obrigações (incluindo confidencialidade e sigilo por 3 anos após o término), danos e condições de vigência (incluindo afastamento médico)."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:35:08.715038Z",
+        "tokens_entrada": 1045,
+        "tokens_saida": 340,
+        "tempo_processamento": 2.293474
+    }
+}

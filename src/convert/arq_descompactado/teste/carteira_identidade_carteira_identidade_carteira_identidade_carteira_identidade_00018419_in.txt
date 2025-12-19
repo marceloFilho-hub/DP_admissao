@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente identificado como 'CARTEIRA DE IDENTIDADE' na parte inferior e contém todos os campos típicos de um documento de identificação civil brasileiro, como 'REGISTRO GERAL', 'NOME', 'FILIAÇÃO', 'NATURALIDADE', 'DATA DE NASCIMENTO' e emissão pelo 'INSTITUTO DE IDENTIFICAÇÃO DO PARANÁ'.\nPontos Principais: Trata-se da Carteira de Identidade (RG) do cidadão Tacon Vissotto Motti, emitida pelo estado do Paraná. O documento atesta a identidade do portador e sua validade em todo o território nacional.\nInformações Relevantes: \n- Nome: TACON VISSOTTO MOTTI\n- Registro Geral (RG): 39.790.974-3\n- Data de Nascimento: 01/06/1989\n- Filiação: CLEUBY KATARI FUKUN\n- Naturalidade: AMAPORA-PR\n- Data de Expedição: 24/01/1962 (Nota: A data de expedição parece ser um erro de digitação ou um dado histórico, pois a data de nascimento é 1989)\n- Órgão Emissor: INSTITUTO DE IDENTIFICAÇÃO DO PARANÁ\n- Número da Cédula (na parte inferior esquerda, sob a foto): 47.905.215-3"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:32:15.926095Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 354,
+        "tempo_processamento": 3.589831
+    }
+}

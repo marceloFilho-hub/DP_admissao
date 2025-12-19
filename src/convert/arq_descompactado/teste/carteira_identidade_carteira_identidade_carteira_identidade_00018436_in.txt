@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente identificado como \"CARTEIRA DE IDENTIDADE\" pelo texto na parte inferior. O cabeçalho superior informa \"REPÚBLICA FEDERATIVA DO BRASIL\" e as informações de emissão de um órgão de identificação (\"SECRETARIA DA SEGURANÇA PÚBLICA / INSTITUTO-GERAL DE PERICIAS / DEPARTAMENTO DE IDENTIFICAÇÃO\" do Rio Grande do Sul). Pontos Principais: O documento serve para identificar a titular, Michelette Shigueyuki, fornecendo dados pessoais e biométricos (com espaço para impressão digital). Informações Relevantes: Nome: MICHELETTE SHIGUEYUKI; Registro Geral: 23.743.631-0; Data de Expedição: 02/12/2009; Data de Nascimento: 01/01/1950; Naturalidade: SINIMBU-RS; CPF: 585.757.324-63."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:31:53.357404Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 251,
+        "tempo_processamento": 2.948217
+    }
+}

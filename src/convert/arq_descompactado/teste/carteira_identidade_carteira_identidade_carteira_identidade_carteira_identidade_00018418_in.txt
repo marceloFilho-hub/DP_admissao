@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente identificado como \"CARTEIRA DE IDENTIDADE\" no rodapé da frente (OCR não capturou, mas o layout é inequívoco) e contém os elementos típicos de um Registro Geral (RG) brasileiro, como número de Registro Geral (76.278.283-3), nome completo (NELSON SELARIN IGOR), filiação, naturalidade, data de nascimento (11/02/1998) e órgão emissor (INSTITUTO GERAL DE PERÍCIA - INSTITUTO DE IDENTIFICAÇÃO do ESTADO DE SANTA CATARINA).\nPontos Principais: O documento serve para comprovar a identidade civil do indivíduo NELSON SELARIN IGOR no território nacional. Ele contém dados biográficos essenciais e números de registro para identificação.\nInformações Relevantes: \n- Nome: NELSON SELARIN IGOR\n- Registro Geral (RG): 76.278.283-3\n- Data de Nascimento: 11/02/1998\n- Naturalidade: ITAINÓPOLIS-PI\n- CPF: 706.582.012-20\n- Data de Expedição: 30/11/1992 (Nota: Esta data de expedição parece ser incorreta para alguém nascido em 1998, mas é o dado presente no documento).\n- Filiação: ELCIO SPACH SACCHIE e ELISIANE REIMAO NOTARIO"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:32:11.284373Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 374,
+        "tempo_processamento": 4.497355
+    }
+}

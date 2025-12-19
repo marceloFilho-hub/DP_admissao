@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG), conforme indicado pelo título \"CARTEIRA DE IDENTIDADE\" no cabeçalho. Pontos Principais: O documento serve para identificação civil do portador no território nacional. Informações Relevantes: Nome: BERTOLUZZI CALOCHI HEIDY TEIXEIRA; RG (Registro Geral): 83.296.226-0; Data de Nascimento: 31/10/1980; Filiação: HARUMMYY SIENRA PALTRINIERI; Local de Nascimento: JUNDIA-AL; CPF: 461.733.703-28; Data de Expedição: 18/01/1973; Órgão Emissor: INSTITUTO DE IDENTIFICAÇÃO DO PARANA."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:32:42.107944Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 218,
+        "tempo_processamento": 2.516004
+    }
+}

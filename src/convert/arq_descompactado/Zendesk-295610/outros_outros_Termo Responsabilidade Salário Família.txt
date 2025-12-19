@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "outros",
+        "document_description": "Justificativa da Classificação: O documento é um \"TERMO DE RESPONSABILIDADE\" assinado por uma funcionária (MAIARA BARCELOS PONTES) para a empresa SOMA CENARIOS E EVENTOS LTDA, referente à concessão de Salário Família, declarando não possuir dependentes para tal fim. Como não se encaixa perfeitamente nas categorias financeiras, contratuais ou de identificação listadas, a categoria mais apropriada é \"outros\".\nPontos Principais: O documento formaliza a declaração de que a segurada não possui dependentes para fins de Salário Família, conforme a Portaria No. MPAS - 3.040/82. Também alerta sobre as penalidades (devolução de valores, rescisão por justa causa) em caso de descumprimento.\nInformações Relevantes: Empresa: SOMA CENARIOS E EVENTOS LTDA (CNPJ: 30.048.423/0001-42). Segurado: MAIARA BARCELOS PONTES (CTPS/SÉRIE: 1821930 / 7706). Data: Rio de Janeiro, 12 de Dezembro de 2025."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:35:28.725683Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 299,
+        "tempo_processamento": 1.65016
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "outros",
+        "document_description": "Justificativa da Classificação: O documento é um 'CONTRATO DE TRABALHO' (especificamente um Contrato de Experiência) entre SOMA CENARIOS E EVENTOS LTDA (EMPREGADOR) e LUANA CRISTINA FERREIRA DUARTE (EMPREGADO). Embora seja um tipo de contrato, ele não se encaixa perfeitamente nas categorias de contrato listadas ('contrato_cambio', 'contrato_seguro', 'convencao_coletiva'). Portanto, a classificação mais adequada é 'outros'.\nPontos Principais: O documento estabelece os termos e condições da relação de trabalho, com um período de experiência inicial. Ele detalha a função, horário, local de trabalho, obrigações das partes (incluindo confidencialidade), e as condições de vigência e rescisão do contrato de experiência.\nInformações Relevantes: \n- Empregador: SOMA CENARIOS E EVENTOS LTDA.\n- Empregado: LUANA CRISTINA FERREIRA DUARTE (CTPS n° 1560874 Série 2796).\n- Função: MONITOR(A).\n- Remuneração: R$ 1.650,00 por mês.\n- Vigência do Contrato de Experiência: Início em 10/12/2025 e término em 23/01/2026 (inicialmente 30 dias), com possibilidade de prorrogação por mais 60 dias, totalizando 90 dias (limite legal).\n- Cláusulas Importantes: Da Função, Do Horário, Do Local de Trabalho, Das Obrigações (incluindo Regulamento Interno), Dos Danos (desconto por prejuízo), Da Confidencialidade (vigência estendida por 3 anos após o término) e Da Vigência (detalhes sobre o período de experiência e afastamentos médicos)."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:34:59.293215Z",
+        "tokens_entrada": 1045,
+        "tokens_saida": 451,
+        "tempo_processamento": 2.852198
+    }
+}

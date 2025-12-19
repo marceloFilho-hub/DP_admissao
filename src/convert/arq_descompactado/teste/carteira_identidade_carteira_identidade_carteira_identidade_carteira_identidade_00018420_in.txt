@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG), conforme indicado pelos títulos \"REPÚBLICA FEDERATIVA DO BRASIL\", \"ESTADO DE SÃO PAULO\", \"SECRETARIA DA SEGURANÇA PÚBLICA\", \"INSTITUTO DE IDENTIFICAÇÃO\", e o rótulo no verso \"CARTEIRA DE IDENTIDADE\".\nPontos Principais: O objetivo principal é servir como documento oficial de identificação civil da pessoa nele registrada. Contém dados pessoais, como nome, filiação, data de nascimento, naturalidade e números de registro.\nInformações Relevantes: Nome: TIZIANI ARIBONI CASTELLAN; Filiação: PALUAN DOLLERER KAZUAKI MENDES KAROLINE SOENGAS; Data de Nascimento: 19/08/1971; Data de Expedição: 13/08/2004; Registro Geral (RG): 18.455.334-9; CPF: 881.489.519-85; Naturalidade: MANAIRA-PB; Órgão Emissor/Local de Expedição (Doc Origem): GRANJA-CE / ACARA-PA."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:32:19.346510Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 303,
+        "tempo_processamento": 2.787763
+    }
+}

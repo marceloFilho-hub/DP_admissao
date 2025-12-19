@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é inequivocamente uma Carteira Nacional de Habilitação (CNH) emitida pela República Federativa do Brasil, conforme indicado pelos títulos \"CARTEIRA NACIONAL DE HABILITAÇÃO / DRIVER LICENSE / PERMISO DE CONDUCCIÓN\", a presença do símbolo 'BR' e a menção ao SENATRAN.\n\nPontos Principais: O documento serve como prova de habilitação para conduzir veículos no Brasil, contendo informações de identificação do condutor, detalhes da permissão (categorias, datas de validade, registro) e recursos de segurança como o QR Code e a assinatura digital.\n\nInformações Relevantes: Nome: ERIK FERRAZ RONAY; Data de Nascimento: 29/05/2005; Local de Nascimento: SAO PAULO, SP; Data de 1ª Habilitação: 11/03/2024; Validade (CNH): 07/06/2033; Número de Registro: 08587644724; Categoria da Habilitação: B; Filiação: ALEXANDER MARCEL RONAY e JUSSARA DE CAMPOS FERRAZ RONAY."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:33:36.328655Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 295,
+        "tempo_processamento": 2.049056
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente identificado como \"CARTEIRA NACIONAL DE HABILITAÇÃO / DRIVER LICENSE / PERMISO DE CONDUCCIÓN\" na parte superior, contendo todas as informações típicas deste documento emitido pelo SENATRAN (Secretaria Nacional de Trânsito). Pontos Principais: O documento serve para comprovar a aptidão do portador para conduzir veículos automotores no Brasil, contendo dados pessoais, de habilitação e validade. Informações Relevantes: Nome: TIAGO ALEXANDRE COSTA DOS SANTOS. Data de Nascimento: 16/10/2002. Categoria de Habilitação: B. Data de Validade: 22/04/2031. Número de Registro: 07740069994. Local de Emissão/Residência: João Pessoa, PB."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:33:42.467836Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 221,
+        "tempo_processamento": 1.875669
+    }
+}

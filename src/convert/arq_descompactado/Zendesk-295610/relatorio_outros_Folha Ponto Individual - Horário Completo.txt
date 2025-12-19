@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "relatorio",
+        "document_description": "Justificativa da Classificação: O documento é uma 'FOLHA DE PONTO DIÁRIA' que registra a jornada de trabalho de um funcionário (MAIARA BARCELOS PONTES) para a empresa SOMA CENARIOS E EVENTOS LTDA durante o período de 01/12/2025 a 31/12/2025. Folhas de ponto são relatórios internos de controle de jornada. Pontos Principais: O objetivo é documentar as horas trabalhadas, incluindo expediente normal e horas extras, para fins de controle e apuração de pagamento. Informações Relevantes: Empresa: SOMA CENARIOS E EVENTOS LTDA (CNPJ: 30.048.423/0001-42); Funcionário: MAIARA BARCELOS PONTES (Função: MONITOR(A)); Período: Dezembro de 2025; Expediente Padrão: 10:00 às 19:00 com intervalo de 13:00 às 14:00."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:35:23.718712Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 259,
+        "tempo_processamento": 1.711942
+    }
+}

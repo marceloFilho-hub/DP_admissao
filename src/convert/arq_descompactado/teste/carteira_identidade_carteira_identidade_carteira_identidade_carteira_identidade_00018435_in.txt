@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG), conforme indicado pelos títulos 'CARTEIRA DE IDENTIDADE', 'ESTADO DE SANTA CATARINA', 'SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA', 'INSTITUTO GERAL DE PERÍCIA', e a menção à 'LEI Nº 7.116 DE 29/08/83'. Pontos Principais: O documento serve para identificar a cidadã SCAF LAURETTA COSTADELLA, emitido pelo estado de Santa Catarina. Informações Relevantes: Nome: SCAF LAURETTA COSTADELLA; Data de Nascimento: 04/06/1975; Registro Geral: 30.662.356-0; Filiação: OUTEDA PAGANI KIST / MITHIE ETSUKO ESTIMO; Naturalidade: OURO PRETO-MG; CPF: 068.518.345-96; Data de Expedição: 09/09/1966 (Nota: Esta data de expedição parece incongruente com a data de nascimento, mas é o que consta no documento)."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:33:17.588347Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 290,
+        "tempo_processamento": 3.00328
+    }
+}

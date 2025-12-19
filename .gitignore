@@ -19,3 +19,4 @@ src/convert/temp_extract/*.*
 src/convert/documentos_pdf/*.*
 data/*.*
 src/convert/arq_descompactado/*.*
+src/convert/csv/*.csv

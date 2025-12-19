@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "outros",
+        "document_description": "Justificativa da Classificação: O documento é uma \"Planilha para Cadastro de Funcionário\", contendo dados gerais, dados pessoais e seção de documentação de um empregado. Embora contenha dados pessoais e de identificação, sua finalidade principal é o registro interno de informações para admissão ou manutenção cadastral de um funcionário, o que o enquadra melhor na categoria \"outros\", pois não se encaixa em recibos, faturas, extratos ou documentos legais formais como contratos ou carteiras de identidade.\nPontos Principais: O documento visa coletar e registrar informações cadastrais completas de um novo funcionário, abrangendo dados profissionais (função, salário, admissão), dados pessoais (nome, endereço, filiação, estado civil, escolaridade, raça, etc.) e informações de documentação necessária para fins legais e administrativos (RG, CPF, Título de Eleitor, CNH, etc.). A segunda página lista dependentes para fins de Imposto de Renda (I.R.).\nInformações Relevantes: \n- Função: Analista de M&A I\n- Salário: R$ 7.504,95\n- Data de Admissão: 02/01/2026\n- Nome do Funcionário: João Marcelino Lacorte\n- CPF: 415.595.268-82\n- Título de Eleitor: 4618 2138 0191 (UF: SP, Seção: 0330, Zona: 305)\n- Certificado de Reservista: 32.000.610989-7 (Data de Emissão: 04/04/2023)"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:34:24.577923Z",
+        "tokens_entrada": 787,
+        "tokens_saida": 412,
+        "tempo_processamento": 2.311421
+    }
+}

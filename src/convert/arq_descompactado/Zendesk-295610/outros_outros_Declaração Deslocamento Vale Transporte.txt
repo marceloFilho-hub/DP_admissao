@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "outros",
+        "document_description": "Justificativa da Classificação: O documento é uma \"SOLICITAÇÃO DE VALE-TRANSPORTE\", um formulário específico utilizado por um empregado para solicitar o benefício de vale-transporte junto ao empregador. Esta categoria não se enquadra nas opções pré-definidas como nota fiscal, contrato, extrato ou comprovante, sendo classificado como \"outros\".\nPontos Principais: O documento formaliza o pedido de vale-transporte pela empregada MAIARA BARCELOS PONTES para a empresa SOMA CENARIOS E EVENTOS LTDA. Inclui a aceitação das condições legais, como a autorização de desconto de até 6% do salário e o compromisso de uso exclusivo para o deslocamento residência-trabalho. A solicitante detalha seu endereço atual e os meios de transporte que pretende utilizar (ida e volta), embora não especifique os valores.\nInformações Relevantes: Empresa Solicitante: SOMA CENARIOS E EVENTOS LTDA; Empregada: MAIARA BARCELOS PONTES (Função: MONITOR(A)); Endereço Residencial Atual: SANTOS DUMONT, CASA 8, RAMOS, RIO DE JANEIRO, CEP: 21030280; Data da Solicitação: 12 de Dezembro de 2025."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:35:11.384100Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 315,
+        "tempo_processamento": 1.941146
+    }
+}

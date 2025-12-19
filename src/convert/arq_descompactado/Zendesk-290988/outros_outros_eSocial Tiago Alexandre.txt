@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "outros",
+        "document_description": "Justificativa da Classificação: O documento é uma tela de sistema (provavelmente do eSocial) referente aos dados contratuais de um trabalhador sem vínculo (estagiário), contendo informações sobre o contrato, remuneração, dados do estagiário, instituição de ensino e detalhes do evento de registro no sistema. Como não se enquadra diretamente nas categorias fornecidas (como nota fiscal, boleto, extrato, etc.), a categoria mais apropriada é \"outros\", especificamente representando um registro ou relatório de informações contratuais/cadastrais trabalhistas.\nPontos Principais: O documento detalha o início do vínculo de estágio (TSVE) para o trabalhador TIAGO ALEXANDRE COSTA DOS SANTOS, com data de início em 12/01/2026, salário de R$ 3.453,42 por mês, e informações sobre a instituição de ensino (CNPJ 63.025.530/0001-04) e o estabelecimento empregador (FORTEZZA ASSESSORIA FINANCEIRA LTDA.). Também identifica o evento de registro no sistema.\nInformações Relevantes: \n- Nome do Trabalhador: TIAGO ALEXANDRE COSTA DOS SANTOS\n- CPF: 860.796.702-91\n- Data de Nascimento: 16/10/2002\n- Tipo de Registro: Início de TSVE\n- Data de Início: 12/01/2026\n- Categoria: 901 - Estagiário\n- Valor da Remuneração: 3.453,42 (Por Mês)\n- CNPJ da Instituição de Ensino: 63.025.530/0001-04\n- CPF do Supervisor: 407.225.748-60\n- Identificador do Evento: ID1271935590000002025121!"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:33:57.949386Z",
+        "tokens_entrada": 1303,
+        "tokens_saida": 484,
+        "tempo_processamento": 2.707018
+    }
+}

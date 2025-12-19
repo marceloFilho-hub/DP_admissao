@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é inequivocamente uma Carteira de Identidade (RG) brasileira, conforme indicado claramente pelo título 'CARTEIRA DE IDENTIDADE' no verso e pela estrutura que inclui foto, impressão digital ('Polegar Direito'), assinatura, filiação, data de nascimento, naturalidade e registro geral.\nPontos Principais: Trata-se de um documento oficial de identificação civil emitido pelo Estado do Rio de Janeiro. O documento comprova a identidade do titular, FACHETTI SAPRAGONAS EDVAN.\nInformações Relevantes: Nome: FACHETTI SAPRAGONAS EDVAN; Data de Nascimento: 03/01/2002; Naturalidade: LAGOA DO SITIO-PI; Filiação: CASETTA GROSSO SVARTMAN e ZARBERIAN AGUA ADELIA; Registro Geral: 90.302.711-2; CPF: 458.172.250-00; Data de Expedição: 05/08/1977 (Data de emissão parece ser um erro de digitação no OCR ou no próprio documento, pois a data de nascimento é 2002)."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:32:55.076155Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 293,
+        "tempo_processamento": 3.970821
+    }
+}

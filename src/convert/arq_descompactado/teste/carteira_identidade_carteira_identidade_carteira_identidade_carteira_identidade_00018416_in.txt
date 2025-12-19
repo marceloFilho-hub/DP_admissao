@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente identificado como uma 'CARTEIRA DE IDENTIDADE' (RG) pelos títulos proeminentes no cabeçalho e no corpo do documento, além da presença de dados típicos como nome, filiação, data de nascimento, registro geral, órgão emissor (RIO GRANDE DO SUL, INSTITUTO-GERAL DE PERÍCIAS), e a menção a 'Pulegar Direitu' e 'PROIBIDO PLASTIFICAR'.\nPontos Principais: O documento serve para identificar o cidadão ADENIVALDO AUGUSTIN FL, emitido pelo estado do Rio Grande do Sul, contendo dados biográficos e de registro civil.\nInformações Relevantes: Nome: ADENIVALDO AUGUSTIN FL; Data de Nascimento: 11/11/2003; Registro Geral: 39.558.690-2; CPF: 153.424.518-92; Data de Expedição: 03/10/2007; Naturalidade: ABAIARA-CE."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:32:05.904200Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 266,
+        "tempo_processamento": 3.144948
+    }
+}

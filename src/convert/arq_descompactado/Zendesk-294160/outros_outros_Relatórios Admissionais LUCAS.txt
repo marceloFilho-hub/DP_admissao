@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "outros",
+        "document_description": "Justificativa da Classificação: O documento consiste em múltiplos acordos e registros de trabalho (Acordo de Compensação de Horas Trabalhadas, Acordo de Prorrogação de Horas, Contrato de Experiência, Solicitação de Vale-Transporte e Registro de Empregado - CAGED/eSocial). Nenhum desses tipos se encaixa perfeitamente nas categorias listadas, sendo a mais apropriada 'outros'.\nPontos Principais: O conjunto de documentos formaliza a relação de trabalho entre a FORTEZZA ASSESSORIA FINANCEIRA LTDA. e o empregado LUCAS AMARAL TOSCANO DE BRITO. Inclui o acordo de compensação/prorrogação de horas, as condições do contrato de experiência (com início em 02/01/2026, salário de R$ 7.504,95/mês, e prazo prorrogado até 01/04/2026), e o registro formal de admissão no quadro de funcionários (CAGED/eSocial), além da solicitação de vale-transporte.\nInformações Relevantes: \n- Empregador: FORTEZZA ASSESSORIA FINANCEIRA LTDA. (CNPJ: 27.193.559/0001-31)\n- Empregado: LUCAS AMARAL TOSCANO DE BRITO (CTPS: 7091621/2475)\n- Função: ANALISTA de M&A I\n- Data de Admissão: 02/01/2026\n- Salário Mensal: R$ 7.504,95\n- Horário Padrão: Segunda à Sexta, 08:30 às 18:00 (Intervalo: 12:00 às 13:00)\n- Contrato de Experiência Inicial: 02/01/2026 a 15/02/2026, prorrogado até 01/04/2026.\n- Acordo de Horas Extras: Pagamento de Hora Extra a 60% sobre o valor base de R$ 34,11."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:34:38.867083Z",
+        "tokens_entrada": 1561,
+        "tokens_saida": 522,
+        "tempo_processamento": 2.719673
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "outros",
+        "document_description": "Justificativa da Classificação: O documento é um 'TERMO DE RESPONSABILIDADE' assinado por um segurado (MAIARA BARCELOS PONTES) perante uma empresa (SOMA CENARIOS E EVENTOS LTDA) referente à concessão de Salário Família. Como não se enquadra em nenhuma das categorias específicas listadas (como nota fiscal, fatura, contrato específico, etc.), a classificação mais adequada é 'outros'.\nPontos Principais: O documento formaliza a ciência da segurada sobre os eventos que determinam a perda do direito ao salário-família (óbito do filho, cessação de invalidez, sentença judicial) e as penalidades (devolução de valores, rescisão do contrato por justa causa) em caso de descumprimento. O documento está relacionado à gestão de benefícios sociais/familiares no contexto empregatício.\nInformações Relevantes: Empresa: SOMA CENARIOS E EVENTOS LTDA (CNPJ: 30.048.423/0001-42). Segurado: MAIARA BARCELOS PONTES (CTPS/SÉRIE: 1821930 / 7706). Filho/Dependente: GAEL FERREIRA ALVES (Data de Nascimento: 18/03/2020). Local e Data de Assinatura: RIO DE JANEIRO, 12 de Dezembro de 2025."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T20:35:26.450774Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 345,
+        "tempo_processamento": 2.022782
+    }
+}
