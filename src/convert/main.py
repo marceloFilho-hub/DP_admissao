@@ -14,7 +14,7 @@ from csv_download import executar_download_csv
 import pandas as pd
 from extrair_zip import executar_extrair_zip
 from descompact_pasta import descompact_anexos
-from progress_ui import mostrar_progresso
+
 
 
 usuario = BHUB_USER
@@ -76,13 +76,7 @@ def executar():
 
         for ticket_id in lista_ids:
             contador += 1
-
-            # Mostrar o progresso ANTES de processar o ticket
-            mostrar_progresso(
-                etapa=f"Baixando anexos do ticket {ticket_id}",
-                atual=contador,
-                total=total
-            )
+            print(f"Baixando anexos do ticket {ticket_id} ({contador} de {total})...")
 
             page.goto("https://bhubhelp.zendesk.com/agent/tickets/" + str(ticket_id))
 

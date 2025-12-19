@@ -1,206 +1,142 @@
+# document_classifier.py
+
 import re
-from typing import Tuple
+from collections import defaultdict
+from typing import Dict, Tuple
+import unicodedata
 
 
 class DocumentClassifier:
     """
-    Classificador determinístico para documentos de RH
-    Retorna (categoria, score)
+    Classificador determinístico baseado em regras.
+
+    Responsável por:
+    - Normalizar texto OCR
+    - Aplicar regras (keywords + regex)
+    - Gerar score por categoria
+    - Retornar resultado estruturado
+
+    NÃO:
+    - Faz OCR
+    - Renomeia arquivos
     """
 
     def __init__(self):
-        self.rules = self._build_rules()
 
-    # =====================================================
-    # MÉTODO PRINCIPAL
-    # =====================================================
-    def classify(self, text: str) -> Tuple[str, float]:
-        text = self._normalize(text)
+        # ==========================================
+        # DEFINIÇÃO DAS REGRAS (OCR-AWARE)
+        # ==========================================
+        self.rules = {
 
-        best_match = ("nao_identificado", 0.0)
+            "RG": {
+                "keywords": {
+                    # Keywords curtas e robustas
+                    "registro geral": 4,
+                    "carteira de identidade": 3,
+                    "republica federativa": 2,
+                    "secretaria de seguranca": 2,
+                    "instituto de identificacao": 2,
+                },
+                "regex": {
+                    # RG com tolerância a OCR
+                    r"\b\d{2}[.,]\d{3}[.,]\d{3}-?\d?\b": 4,
 
-        for categoria, rule in self.rules.items():
-            score = self._score(text, rule)
-            if score > best_match[1]:
-                best_match = (categoria, score)
-
-        # 🔐 Threshold de segurança
-        if best_match[1] < 0.55:
-            return "nao_identificado", best_match[1]
-
-        return best_match
-
-    # =====================================================
-    # SCORE POR REGRA
-    # =====================================================
-    def _score(self, text: str, rule: dict) -> float:
-        score = 0.0
-
-        # Palavras-chave
-        for kw in rule.get("keywords", []):
-            if kw in text:
-                score += rule.get("kw_weight", 0.1)
-
-        # Regex forte
-        for pattern in rule.get("regex", []):
-            if re.search(pattern, text):
-                score += rule.get("regex_weight", 0.3)
-
-        # Penalidade
-        for bad in rule.get("negative", []):
-            if bad in text:
-                score -= 0.2
-
-        return min(score, 1.0)
-
-    # =====================================================
-    # NORMALIZAÇÃO
-    # =====================================================
-    def _normalize(self, text: str) -> str:
-        text = text.lower()
-        text = re.sub(r"\s+", " ", text)
-        return text
-
-    # =====================================================
-    # REGRAS
-    # =====================================================
-    def _build_rules(self):
-        return {
-
-            # ================= IDENTIFICAÇÃO =================
-
-            "rg": {
-                "keywords": ["registro geral", "carteira de identidade", "rg"],
-                "regex": [r"\d{2}\.\d{3}\.\d{3}", r"\d{9}"],
-                "kw_weight": 0.15,
-                "regex_weight": 0.35
+                    # Datas comuns em RG
+                    r"\bdata\s+de\s+expedicao\b": 2,
+                    r"\bdata\s+de\s+nascimento\b": 2,
+                },
+                "threshold": 6
             },
 
-            "cpf": {
-                "keywords": ["cpf", "cadastro de pessoas fisicas"],
-                "regex": [r"\d{3}\.\d{3}\.\d{3}-\d{2}", r"\d{11}"],
-                "kw_weight": 0.2,
-                "regex_weight": 0.4
-            },
-
-            "cnh": {
-                "keywords": ["carteira nacional de habilitacao", "habilitacao", "cnh"],
-                "regex": [r"registro", r"categoria [a-e]"],
-                "kw_weight": 0.2,
-                "regex_weight": 0.4
-            },
-
-            "passaporte": {
-                "keywords": ["passport", "passaporte"],
-                "regex": [r"[a-z]{1}\d{6}"],
-                "kw_weight": 0.3,
-                "regex_weight": 0.4
-            },
-
-            "ctps": {
-                "keywords": ["carteira de trabalho", "ctps"],
-                "regex": [r"\d{7}", r"serie"],
-                "kw_weight": 0.25,
-                "regex_weight": 0.4
-            },
-
-            "titulo_eleitor": {
-                "keywords": ["titulo de eleitor", "justica eleitoral"],
-                "regex": [r"\d{12}"],
-                "kw_weight": 0.3,
-                "regex_weight": 0.4
-            },
-
-            # ================= ENDEREÇO =================
-
-            "comprovante_endereco": {
-                "keywords": [
-                    "endereco", "cep", "rua", "avenida",
-                    "energia", "agua", "telefone", "gás", "fatura"
-                ],
-                "regex": [r"\d{5}-\d{3}"],
-                "kw_weight": 0.1,
-                "regex_weight": 0.3
-            },
-
-            "contrato_aluguel": {
-                "keywords": ["contrato de locacao", "aluguel"],
-                "regex": [r"locador", r"locatario"],
-                "kw_weight": 0.3,
-                "regex_weight": 0.4
-            },
-
-            # ================= TRABALHISTAS =================
-
-            "pis": {
-                "keywords": ["pis", "pasep"],
-                "regex": [r"\d{11}"],
-                "kw_weight": 0.3,
-                "regex_weight": 0.4
-            },
-
-            "holerite": {
-                "keywords": ["holerite", "contracheque", "salario bruto", "inss"],
-                "regex": [r"r\$"],
-                "kw_weight": 0.25,
-                "regex_weight": 0.35
-            },
-
-            "comprovante_vinculo": {
-                "keywords": ["vinculo empregaticio", "empregado", "empresa"],
-                "regex": [],
-                "kw_weight": 0.3
-            },
-
-            "atestado_medico": {
-                "keywords": ["atestado", "crm", "medico"],
-                "regex": [r"crm\s?\d+"],
-                "kw_weight": 0.3,
-                "regex_weight": 0.4
-            },
-
-            # ================= CERTIDÕES =================
-
-            "certidao_nascimento": {
-                "keywords": ["certidao de nascimento"],
-                "regex": [],
-                "kw_weight": 0.5
-            },
-
-            "certidao_casamento": {
-                "keywords": ["certidao de casamento"],
-                "regex": [],
-                "kw_weight": 0.5
-            },
-
-            "certidao_reservista": {
-                "keywords": ["certificado de reservista"],
-                "regex": [],
-                "kw_weight": 0.5
-            },
-
-            # ================= OUTROS =================
-
-            "assinatura": {
-                "keywords": ["assinatura"],
-                "regex": [],
-                "kw_weight": 0.6
-            },
-
-            "foto_candidato": {
-                "keywords": ["foto", "imagem"],
-                "negative": ["cpf", "rg", "carteira"],
-                "kw_weight": 0.4
-            },
-
-            "selfie": {
-                "keywords": ["selfie"],
-                "kw_weight": 0.6
-            },
-
-            "plano_saude": {
-                "keywords": ["plano de saude", "carteirinha"],
-                "regex": [],
-                "kw_weight": 0.4
-            },
+            # Futuras categorias:
+            # "CPF": {...}
+            # "CNH": {...}
         }
+
+    # =================================================
+    # NORMALIZAÇÃO DE TEXTO (ANTI-OCR RUIM)
+    # =================================================
+    def _normalize_text(self, text: str) -> str:
+
+        if not text:
+            return ""
+
+        text = text.lower()
+
+        text = unicodedata.normalize("NFKD", text)
+        text = "".join(c for c in text if not unicodedata.combining(c))
+
+        text = re.sub(r"\s+", " ", text)
+
+        return text.strip()
+
+
+
+    # =================================================
+    # CLASSIFICAÇÃO PRINCIPAL
+    # =================================================
+    def classify(self, text: str) -> Tuple[str, float, Dict]:
+        """
+        Retorna:
+        (
+            categoria,
+            score_normalizado (0-1),
+            detalhes
+        )
+        """
+
+        if not text or len(text.strip()) < 20:
+            return "NAO_IDENTIFICADO", 0.0, {}
+
+        text_norm = self._normalize_text(text)
+
+        category_scores = {}
+        debug_info = {}
+
+        # ==========================================
+        # AVALIA CADA CATEGORIA
+        # ==========================================
+        for category, rule in self.rules.items():
+
+            score = 0
+            hits = []
+
+            # ----------------------------
+            # KEYWORDS
+            # ----------------------------
+            for keyword, weight in rule["keywords"].items():
+                if keyword in text_norm:
+                    score += weight
+                    hits.append(f"KW:{keyword}")
+
+            # ----------------------------
+            # REGEX
+            # ----------------------------
+            for pattern, weight in rule["regex"].items():
+                if re.search(pattern, text_norm):
+                    score += weight
+                    hits.append(f"RX:{pattern}")
+
+            category_scores[category] = score
+            debug_info[category] = {
+                "score": score,
+                "threshold": rule["threshold"],
+                "hits": hits
+            }
+
+        # ==========================================
+        # DECISÃO FINAL
+        # ==========================================
+        best_category = max(category_scores, key=category_scores.get)
+        best_score = category_scores[best_category]
+        threshold = self.rules[best_category]["threshold"]
+
+        if best_score < threshold:
+            return "NAO_IDENTIFICADO", round(best_score / threshold, 2), debug_info
+
+        # Normaliza score entre 0 e 1
+        confidence = min(best_score / (threshold * 1.2), 1.0)
+
+        return best_category, round(confidence, 2), debug_info
+
+

@@ -9,6 +9,12 @@ venv/
 *.zip
 __pycache__/
 arq_descompactado/
-csv/
+csv/*.*
 temp_extract/
-documenotos_pdf/
+documentos_pdf/
+src/documentos_pdf
+src/convert/csv/*.*
+src/convert/arq_save/*.*
+src/convert/temp_extract/*.*
+src/convert/documentos_pdf/*.*
+data/
