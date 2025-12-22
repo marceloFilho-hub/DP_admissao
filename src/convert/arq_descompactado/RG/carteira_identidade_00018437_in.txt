@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente identificado como uma 'CARTEIRA DE IDENTIDADE' no lado esquerdo, e contém informações típicas de um registro civil brasileiro, como nome completo, filiação, data de nascimento, naturalidade (SOUŠA-PB), e registro geral ('REGISTRO GERAL' com o número 54.127.608-6). O verso também indica 'VÁLIDA EM TODO O TERRITÓRIO NACIONAL'.\nPontos Principais: O documento serve para identificação civil do titular, registrando dados pessoais e biométricos (embora a foto e assinaturas estejam borradas) e a emissão pela Secretaria de Segurança Pública do Distrito Federal.\nInformações Relevantes: Nome: ELIA PARRILLA VITIELLO; Data de Nascimento: 20/03/1965; Registro Geral (RG): 54.127.608-6; Data de Emissão: 11/05/2009; Filiação: CROCCO TUTIYA ROSMERI RENBERG CIAMPI; Documento de Origem: C.NAS=140 LV=33 FL=355 (indicando certidão de nascimento); Naturalidade: SOUŠA-PB."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:12.523299Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 307,
+        "tempo_processamento": 1.621124
+    }
+}

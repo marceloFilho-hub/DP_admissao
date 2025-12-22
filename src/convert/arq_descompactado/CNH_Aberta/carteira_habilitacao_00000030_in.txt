@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) brasileira, evidenciado pelos cabeçalhos como \"REPÚBLICA FEDERATIVA DO BRASIL\", \"DEPARTAMENTO NACIONAL DE TRÂNSITO\" e o campo \"CARTEIRA NACIONAL DE HABILITACAO\" (parcialmente visível no canto superior direito), além de campos típicos como \"Nº REGISTRO\", \"VALIDADE\", \"REINOLDES LESLIE ANGARTEN STOLLAR\" (nome do portador), \"CPF\", e \"DATA EMISSÃO\".\nPontos Principais: O documento serve para comprovar a habilitação do cidadão para conduzir veículos automotores no território nacional. Contém dados de identificação do condutor e informações sobre a validade da habilitação.\nInformações Relevantes: Número de Registro: 86666142241; Validade: 12/05/1993; Nome do Portador: REINOLDES LESLIE ANGARTEN STOLLAR; CPF: 255.172.047-83; Data de Nascimento: 08/11/2003; Data Emissão: 25/04/1958 (Nota: Data de nascimento posterior à data de emissão, o que pode indicar um erro no documento ou que a data de emissão é a primeira habilitação/documento anterior não correspondente ao campo na frente/verso específico); Local de Emissão (Local): DOFETE-SP; Nº CNH (código 987536669 na parte superior esquerda)."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:28.607329Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 392,
+        "tempo_processamento": 2.062181
+    }
+}

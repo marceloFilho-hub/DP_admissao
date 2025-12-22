@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) do Brasil, pois contém os cabeçalhos \"REPÚBLICA FEDERATIVA DO BRASIL\", \"ESTADO DE SÃO PAULO\", \"CARTEIRA DE IDENTIDADE\", além de campos típicos como NOME, FILIAÇÃO, DATA DE NASCIMENTO e o número do registro (\"0548-4\" e \"K171-33837\").\nPontos Principais: O documento serve como prova de identidade oficial para o cidadão brasileiro, contendo dados pessoais, foto e impressões digitais (embora estas estejam borradas). A frente mostra informações de identificação e o verso (implícito pela dobra e estrutura) contém a foto e o campo para impressão digital (\"POLEGAR DIREITO\").\nInformações Relevantes: \n- Nome: GERALDELI SILVINO\n- Filiação: VISCONI MATAMOROS RATIS FERNANDES\n- Data de Nascimento: 02/12/1950\n- Data de Expedição: 11/06/1975\n- Naturalidade: BATAYPORÃ-MS\n- Estado Emissor: SÃO PAULO\n- Número do Registro Geral (RG): 0548-4 (parte visível na frente)\n- CPF (parcial/registro): 312.260.130-31"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:01:46.945275Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 351,
+        "tempo_processamento": 2.963147
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira de Identidade (RG) emitida pelo Estado da Bahia, como indicado pelos dizeres \"ESTADO DA BAHIA\", \"INSTITUTO DE IDENTIFICAÇÃO PEDRO MELLO\" e o título \"CARTEIRA DE IDENTIDADE\".\nPontos Principais: O objetivo principal do documento é servir como identificação civil do portador no território nacional, contendo dados pessoais, filiação, data de nascimento, naturalidade e o número de registro (RG).\nInformações Relevantes: RG: 70.876.879-9, Nome: AGUERA COLODO MERLOTO, Filiação: FUMO RENNER JORDANI e KUCHIKI GAMPER KOUITI, Naturalidade: JARDIM-MS, Data de Nascimento: 05/03/2003, Data de Expedição: 10/02/1966, CPF: 356.154.279-49, DOC ORIGEM: CMC= SÃO PEDRO DO BUTIÁ-RS, C.NAS=247 LV=496 FL=320."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:40.223228Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 281,
+        "tempo_processamento": 2.261849
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) brasileira, como indicado pelo cabeçalho \"CARTEIRA NACIONAL DE HABILITAÇÃO\" e pela presença de informações típicas deste documento como NOME, CPF, DATA DE NASCIMENTO, N° REGISTRO, VALIDADE, CATEGORIA DE HABILITAÇÃO (CAT. HAB. AB) e o logotipo do DETRAN/MG.\nPontos Principais: Este documento oficial serve para comprovar a aptidão do portador para conduzir veículos automotores e sua identificação civil no território nacional. Ele contém dados pessoais, de registro e de validade da licença.\nInformações Relevantes: Nome: BISAIO BARLETTE BELISSIMO; CPF: 806.987.079-66; Data de Nascimento: 18/02/2009; N° Registro: 23563522468; Validade: 20/02/1998; 1ª Habilitação: 15/06/1982; Local: LAGOA DO PIAUÍ-PI; Data Emissão: 06/08/1988; Categoria: AB; Órgão Emissor/UF: SDS/BA; CNH Nº: 837163654."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:29.630372Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 334,
+        "tempo_processamento": 1.813376
+    }
+}

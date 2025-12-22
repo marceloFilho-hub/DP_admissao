@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) do Brasil, como indicado pelo cabeçalho \"REPÚBLICA FEDERATIVA DO BRASIL MINISTÉRIO DAS CIDADES DEPARTAMENTO NACIONAL DE TRÂNSITO CARTEIRA NACIONAL DE HABILITAÇÃO\".\nPontos Principais: Este documento comprova a habilitação legal do indivíduo para conduzir veículos automotores no território nacional. Ele contém dados pessoais, de registro e validade da habilitação.\nInformações Relevantes: Nome: LESAGE MAGRIN GRILLO; CPF: 165.695.634-91; Data de Nascimento: 26/07/1980; N° Registro: 42502695671; Validade: 13/08/1973 (Nota: A data de validade parece incomum/antiga, mas está presente no campo específico); 1ª Habilitação: 07/02/1975; Categoria: C; Local de Emissão: IEPÊ-SP; Data de Emissão: 15/07/2018; Órgão Emissor UF: SJS/RS."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:05.604695Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 307,
+        "tempo_processamento": 1.333209
+    }
+}

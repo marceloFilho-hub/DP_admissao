@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira de Identidade (RG) da República Federativa do Brasil, emitida pela Secretaria de Estado da Segurança Pública do Instituto de Identificação do Paraná. Isso é evidenciado pelos títulos \"REPÚBLICA FEDERATIVA DO BRASIL\", \"SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA\", \"INSTITUTO DE IDENTIFICAÇÃO DO PARANÁ\" e pelo campo \"CARTEIRA DE IDENTIDADE\".\nPontos Principais: O documento serve como identificação civil oficial do indivíduo no Brasil, contendo dados pessoais, foto, impressão digital e assinatura.\nInformações Relevantes: Nome: PELICARI MANZINE CANHOLI; Registro Geral: 86.156.474-1; Data de Expedição: 26/10/2005; Data de Nascimento: 19/10/1980; Naturalidade: ITU-SP; Filiação: RHUDNER NESTI / CAMBIAGHI KAGEYAMA PEZ; Documento de Origem: CMC= CEDRO DO ABAETÉ-MG, SEDE C.NAS=296 LV=251 FL=63; Cidade de Registro (Código): CODÓ-MA."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:41.730080Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 304,
+        "tempo_processamento": 1.521783
+    }
+}

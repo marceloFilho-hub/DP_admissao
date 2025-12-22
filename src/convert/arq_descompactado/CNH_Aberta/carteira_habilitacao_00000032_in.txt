@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) brasileira, identificada pelos termos \"DETRAN-MG (MINAS GERAIS)\", \"CARTEIRA NACIONAL DE HABILITACAO\", números de registro, validade de permissão, e dados do condutor como nome, data de nascimento e categoria da habilitação (\"D\").\n\nPontos Principais: Este documento serve para comprovar a aptidão legal de um indivíduo para conduzir veículos automotores no território nacional. Ele contém informações de identificação do portador e detalhes sobre a permissão para dirigir.\n\nInformações Relevantes: \n- Nome: TOMASEVICIUS ETO BRENE\n- Data de Emissão: 13/01/1992\n- Validade (Permissão): 26/11/2003\n- 1ª Habilitação: 07/01/2007\n- Data Nascimento: 01/01/1989\n- Filiação: SAVICKI BRUZEGUZ CALE\n- Categoria (CAT/HAB): D\n- Nº Registro: 32421375525\n- Órgão Emissor (UF): SPTC\n- CPF: 138.138.609-14"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:33.422497Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 340,
+        "tempo_processamento": 1.43264
+    }
+}

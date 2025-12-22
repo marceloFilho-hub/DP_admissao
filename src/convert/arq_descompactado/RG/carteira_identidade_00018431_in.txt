@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é classificado como 'carteira_identidade' porque apresenta explicitamente o título 'CARTEIRA DE IDENTIDADE' e contém todos os campos típicos deste tipo de documento brasileiro, como nome completo, data de nascimento, filiação, número de registro, naturalidade, CPF e órgão emissor (Estado do Espírito Santo - SPTO/DEPARTAMENTO DE IDENTIFICAÇÃO).\nPontos Principais: O documento serve para identificar oficialmente o portador, CAZELLI CLEMENCIO VALDIR, emitido pelo Estado do Espírito Santo. Inclui informações pessoais essenciais e a validade da emissão.\nInformações Relevantes: Nome: CAZELLI CLEMENCIO VALDIR; Registro Geral: 70.610.353-1; Data de Nascimento: 05/08/1967; Data de Expedição: 03/02/1991; CPF: 105.432.113-20; Naturalidade: BORA-SP; Filiação: HOU FELIPIN PERBONE / GOLDSCHMIDT CASSIANO ORBEA."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:01:52.153600Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 280,
+        "tempo_processamento": 1.492754
+    }
+}

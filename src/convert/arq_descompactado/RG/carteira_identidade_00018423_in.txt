@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) do Estado de São Paulo, conforme indicado pelos títulos 'REPÚBLICA FEDERATIVA DO BRASIL', 'ESTADO DE SÃO PAULO', e 'CARTEIRA DE IDENTIDADE'.\nPontos Principais: Este documento serve como identificação civil oficial do titular no Brasil. Contém dados pessoais como nome, filiação, data e local de nascimento, número de registro geral e CPF.\nInformações Relevantes: \n- Órgão Emissor: Instituto de Identificação Ricardo Gumbleton Daunt (SP)\n- Registro Geral (RG): 1461-6\n- Número do Documento (Válido em todo o Território Nacional): 80.267.206-1\n- Data de Expedição: 02/11/2003\n- Nome: FRAYA MAZZIERO IANICK\n- Filiação: CASONI MONTEZANO HIDEYUKI\n- Nome Completo (Indicação): LELO PHELIPPIN PETENUSCI RODRIGUES\n- Naturalidade: ZACARIAS-SP\n- Data de Nascimento: 15/11/1995\n- Documento de Origem: IBIRAÇU-ES (COREMAS-PB)\n- CPF: 944.607.619-63"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:01:27.370189Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 347,
+        "tempo_processamento": 1.536359
+    }
+}

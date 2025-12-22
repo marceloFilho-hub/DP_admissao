@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira Nacional de Habilitação (CNH) brasileira, conforme indicado pelos cabeçalhos \"REPÚBLICA FEDERATIVA DO BRASIL\", \"MINISTÉRIO DAS CIDADES\", \"DEPARTAMENTO NACIONAL DE TRÂNSITO\" e \"CARTEIRA NACIONAL DE HABILITAÇÃO\". O verso também exibe o órgão emissor \"DETRAN MG (MINAS GERAIS)\".\nPontos Principais: O documento serve como prova de identidade e autorização para conduzir veículos automotores no Brasil. Contém dados pessoais do condutor, registro da habilitação e validade.\nInformações Relevantes: Nome do portador: CARILLO NASHIRA UBIDA; CPF: 762.746.758-68; Data de Nascimento: 26/03/1952; Número de Registro: 10347530188; Categoria da Habilitação (CAT. HAB.): A; Local de Emissão: ALTA FLORESTA-MT; Data de Emissão: 27/02/2017."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:42.821404Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 281,
+        "tempo_processamento": 1.325566
+    }
+}

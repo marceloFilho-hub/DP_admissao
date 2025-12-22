@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira Nacional de Habilitação (CNH), como indicado pelo cabeçalho \"REPÚBLICA FEDERATIVA DO BRASIL MINISTÉRIO DAS CIDADES DEPARTAMENTO NACIONAL DE TRÂNSITO CARTEIRA NACIONAL DE HABILITAÇÃO\". Pontos Principais: O documento comprova a habilitação do portador para conduzir veículos automotores no Brasil. Informações Relevantes: Nome do portador: BACANI BALAM LUCIE. Número do Registro: 87078359993. Data de Validade: 17/02/2015. Categoria de Habilitação: A. Data de Emissão: 28/03/1975. Local de Emissão: SANGÃO-SC."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:19.509370Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 207,
+        "tempo_processamento": 1.13345
+    }
+}

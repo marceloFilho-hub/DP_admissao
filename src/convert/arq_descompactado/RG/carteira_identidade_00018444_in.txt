@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) brasileira, como indicado pelo texto \"CARTEIRA DE IDENTIDADE\" no topo da segunda metade da frente do documento. Pontos Principais: O documento serve para identificação civil do portador, contendo dados pessoais, foto e impressão digital. Informações Relevantes: Nome: MAXELL JORDANA ZAK, Nome: CRISTOFARO QUACHIO RACHED, Data de Nascimento: 27/02/1997, Data de Expedição: 29/01/1997, Número de Registro (RG): 39.324.559-7, Local de Origem: ITA-SC, Órgão Emissor/Instituição: ESTADO DA BAHIA - SECRETARIA DA SEGURANÇA PÚBLICA."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:32.821124Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 213,
+        "tempo_processamento": 1.486059
+    }
+}

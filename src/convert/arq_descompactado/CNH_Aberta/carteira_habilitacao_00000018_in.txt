@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira Nacional de Habilitação (CNH) do Brasil, como indicado pelos títulos \"REPÚBLICA FEDERATIVA DO BRASIL\", \"DEPARTAMENTO NACIONAL DE TRANSITO\" e \"CARTEIRA NACIONAL DE HABILITACAO\".\nPontos Principais: O documento serve para identificar o portador e atestar sua permissão legal para conduzir veículos automotores.\nInformações Relevantes: Nome: ALFONSO ALBERTINA RANCIARO; CPF: 187.285.788-48; Data de Nascimento: 27/08/2013; N\b\bº Registro: 13613600982; Local de Emissão: ANALÂNDIA-SP; Data de Emissão: 25/09/1985; Validade: 10/02/1973; Categoria Habilitação: A."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:56.683570Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 246,
+        "tempo_processamento": 1.332674
+    }
+}

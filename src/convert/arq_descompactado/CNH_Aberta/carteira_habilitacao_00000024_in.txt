@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) do Brasil, emitida pelo DETRAN/MG (Minas Gerais), como indicado pelos cabeçalhos \"DETRAN MG (MINAS GERAIS)\", \"CARTEIRA NACIONAL DE HABILITAÇÃO\" e o número de registro típico de CNH (ex: 029931370). Pontos Principais: Este documento comprova a aptidão legal do indivíduo para conduzir veículos automotores no território nacional. Ele contém dados de identificação do condutor, categorias de habilitação e validade. Informações Relevantes: Nome do Condutor: PICCIARELLI KENICHI HIRA; Data de Nascimento: 22/03/2003; Categoria da Habilitação: AB; Data de Emissão: 03/12/2013; Nº Registro: 09700660860; Validade: 05/11/1964 (Nota: Esta data de validade parece incorreta ou ilegível/mascarada na área da foto/assinatura, mas a presença dos campos é característica da CNH)."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:10.710301Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 292,
+        "tempo_processamento": 1.364106
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente identificado como uma CNH (Carteira Nacional de Habilitação) pelo cabeçalho \"REPUBLICA FEDERATIVA DO BRASIL - MINISTÉRIO DAS CIDADES - DEPARTAMENTO NACIONAL DE TRÂNSITO\" e a menção \"CARTEIRA NACIONAL DE HABILITAÇÃO\". \nPontos Principais: Trata-se de um documento de identificação e permissão para conduzir veículos automotores, contendo dados pessoais do condutor, informações de registro e validade.\nInformações Relevantes: Nome: MATHEUS HEDERSON FEDATO; CPF: 868.083.822-55; Data de Nascimento: 23/06/2001; CNH/Registro: 62170965451; Emissão: 24/08/1954 (este campo parece incorreto ou é um dado de registro antigo, pois a data de nascimento é posterior); Validade Permissão: 22/09/1967 (também parece um dado de registro antigo ou erro de digitação, dada a data de nascimento); Local de Emissão: SÃO JOSÉ DO JACURI-MG; Categoria: AB."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:16.920899Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 308,
+        "tempo_processamento": 1.910737
+    }
+}

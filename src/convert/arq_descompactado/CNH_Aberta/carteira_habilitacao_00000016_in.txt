@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) brasileira, identificada pelos cabeçalhos como \"REPÚBLICA FEDERATIVA DO BRASIL\", \"MINISTÉRIO DAS CIDADES\", \"DEPARTAMENTO NACIONAL DE TRÂNSITO\" e \"CARTEIRA NACIONAL DE HABILITAÇÃO\". Os campos como NOME, FILIAÇÃO, CPF, DATA NASCIMENTO, CAT. HABILITAÇÃO e as informações do órgão emissor (DETRAN SP) são característicos deste tipo de documento.\nPontos Principais: O documento serve para comprovar a identificação e a aptidão legal do indivíduo para conduzir veículos automotores. Ele contém dados pessoais do portador, número de registro e validade.\nInformações Relevantes: \nNome: FAVARETTO BRAGA HAGE\nData de Nascimento: 22/05/2014 (Observação: Esta data parece incorreta ou é um campo de exemplo, mas é o que está impresso)\nCPF: 101.642.021-88\nFiliação: ACENSO HORIGOSHI ENERTON OLIVEIRA e DAIL KNOTHE MARUJO\nCategoria Habilitação: D\n1ª Habilitação: 17/07/2011\nValidade: 20/07/1975 (Observação: Esta data também parece incorreta ou é um campo de exemplo, mas é o que está impresso)\nLocal de Emissão: CHAVANTES-SP\nÓrgão Emissor: DETRAN SP (SÃO PAULO)\nData Emissão (versos): 11/02/1956\nNúmero Registro: 10982910538\nNúmero Controle/Série: 979890643\nNúmero DAE/RNPC: 169065510"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:48.277075Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 469,
+        "tempo_processamento": 1.84483
+    }
+}

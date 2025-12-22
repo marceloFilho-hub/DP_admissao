@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira Nacional de Habilitação (CNH) brasileira, identificada por termos como \"REPUBLICA FEDERATIVA DO BRASIL\", \"DEPARTAMENTO ESTADUAL DE TRÂNSITO\", \"CARTEIRA NACIONAL DE HABILITAÇÃO\", e a presença de campos típicos como N° REGISTRO, DATA NASCIMENTO, CPF, CAT. HABILITAÇÃO (A), e o formato geral do documento.\nPontos Principais: O documento comprova a aptidão legal do portador para conduzir veículos automotores em território nacional, contendo dados pessoais, de registro e de validade da habilitação.\nInformações Relevantes: \nNome: ERULLANI NAKAU TANI\nData de Nascimento: 12/04/1964\nCPF: 473.616.712-25\nRegistro: 1.99297901.63\nCategoria Habilitação: A\nLocal de Emissão (Local): FAXINALZINHO-RS\nData Emissão: 12/12/2019\nValidade (Permissão): 20/08/1950 (Nota: Este valor parece ser um dado incorreto/padrão, mas está presente no campo 'VALIDADE').\n1ª Habilitação: 28/01/1982"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:32.042018Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 349,
+        "tempo_processamento": 1.659313
+    }
+}

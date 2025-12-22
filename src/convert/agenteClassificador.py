@@ -10,8 +10,8 @@ PDF_PATH = list(PDF_DIR.rglob("*.pdf"))
 
 API_URL = "https://bhubai-agents-app-392333876030.us-central1.run.app/api/v1/document_classifier/"
     
-def classificadorAPI():
-    for pdf in PDF_PATH:
+def classificadorAPI(pdf):
+    
         with pdf.open("rb") as f:
             files = {
                 "file": (

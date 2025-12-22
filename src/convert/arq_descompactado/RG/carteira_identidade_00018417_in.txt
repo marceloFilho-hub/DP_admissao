@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) do Estado de São Paulo, Brasil, pois apresenta os títulos \"CARTEIRA DE IDENTIDADE\", \"REPÚBLICA FEDERATIVA DO BRASIL\", \"INSTITUTO DE IDENTIFICAÇÃO RICARDO GUMBLETON DAUNT\", e campos como \"NOME\", \"DATA DE NASCIMENTO\", \"FILIAÇÃO\", \"NATURALIDADE\" e \"REGISTRO GERAL\".\nPontos Principais: O objetivo do documento é servir como prova oficial de identidade do portador no território nacional brasileiro. O documento foi emitido pelo Estado de São Paulo e possui informações de identificação civil.\nInformações Relevantes: Nome: ZAMPINI BRISOLLA LLORCA; Filiação: PAQUOLA LOPO VANELLA BELIZARIO QUEDINHO PIOLA; Naturalidade: URU-SP; Data de Nascimento: 31/07/2003; Data de Expedição: 10/03/1984 (Nota: A data de expedição parece ser anterior à data de nascimento, o que pode indicar um erro no documento ou que o campo 'Data de Expedição' se refere a outro dado, ou que o documento é muito antigo e foi substituído/retificado, embora a data de nascimento de 2003 sugira uma emissão mais recente, possivelmente o campo de expedição está ilegível ou corresponde a um campo diferente da data de emissão/validaçao);\nRegistro Geral: 09.043.021-9; C.N.A.S: 494 LV=321 FL=205; CPF: 265.238.964-55."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:55.120918Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 413,
+        "tempo_processamento": 2.790616
+    }
+}

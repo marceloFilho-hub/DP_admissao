@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) do Brasil, conforme indicado pelos títulos 'REPÚBLICA FEDERATIVA DO BRASIL', 'MINISTÉRIO DAS CIDADES', e 'DEPARTAMENTO NACIONAL DE TRÂNSITO - CARTEIRA NACIONAL DE HABILITAÇÃO'.\nPontos Principais: O documento comprova a aptidão legal do portador (MILLIET FATREZI ELENILDO) para conduzir veículos automotores, especificando dados pessoais, de registro, validade e categoria da habilitação (Categoria D).\nInformações Relevantes: Nome: MILLIET FATREZI ELENILDO; CPF: 916.127.920-06; Data de Nascimento: 02/02/1956; Número de Registro: 44952866505; Validade: 01/09/1963 (Nota: Este campo pode indicar a validade da CNH ou data de emissão de um documento anterior, embora a data de emissão seja 14/04/2019); 1ª Habilitação: 23/01/2013; Categoria: D; Local de Emissão: IGACI-AL; Data de Emissão: 14/04/2019; DETRAN: MG (MINAS GERAIS)."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:26.840653Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 347,
+        "tempo_processamento": 2.06173
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) brasileira, identificada pelos cabeçalhos \"REPÚBLICA FEDERATIVA DO BRASIL\", \"MINISTÉRIO DAS CIDADES\", \"DEPARTAMENTO NACIONAL DE TRÂNSITO\" e \"CARTEIRA NACIONAL DE HABILITAÇÃO\".\nPontos Principais: Este documento serve como prova de identidade e autorização legal para conduzir veículos automotores no Brasil. Contém dados pessoais do condutor, informações sobre a habilitação (categorias, datas de emissão e validade) e órgãos emissores.\nInformações Relevantes: Nome do Portador: VINHOLES CIPULLO OLGA; CPF: 169.816.744-08; Data de Nascimento: 07/01/2004; Categoria da Habilitação: AB; Data de Validade: 24/08/2017; Local de Emissão: ARAGUAPAZ-GO; Nº REGISTRO: 40473514005."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:14.532034Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 273,
+        "tempo_processamento": 1.497246
+    }
+}

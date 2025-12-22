@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente identificado no cabeçalho como \"CARTEIRA NACIONAL DE HABILITAÇÃO\" e contém campos típicos deste documento, como NOME (PICCCIARELLI KENICHI HIRA), CPF, DATA DE NASCIMENTO, FILIAÇÃO, N° REGISTRO, VALIDADE, 1ª HABILITAÇÃO e Categoria de Habilitação (CAT.HAB: AB).\nPontos Principais: O objetivo principal do documento é comprovar a aptidão e autorização do portador para conduzir veículos automotores, sendo emitido pelo Departamento Nacional de Trânsito (DETRAN-MG, Minas Gerais).\nInformações Relevantes: Nome: PICCCIARELLI KENICHI HIRA, CPF: 469.290.733-93, Data de Nascimento: 22/03/2003, Número de Registro: 09700660860, Validade: 05/11/1964 (Nota: A data de validade parece ser um erro de impressão ou um campo não preenchido/obsoleto, mas o campo existe), Data de Emissão: 03/12/2013, Categoria: AB, Local de Emissão: SANTA SALETE-SP."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:31.008364Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 319,
+        "tempo_processamento": 1.399387
+    }
+}

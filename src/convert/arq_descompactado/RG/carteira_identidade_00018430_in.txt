@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) brasileira, contendo os campos típicos como 'CARTEIRA DE IDENTIDADE', 'NOME', 'DATA DE NASCIMENTO', 'FILIAÇÃO', 'CPF', e a presença de foto e impressão digital (embora ofuscadas). A menção ao 'ESTADO DO MARANHÃO' e 'INSTITUTO DE IDENTIFICAÇÃO' confirma sua natureza como documento oficial de identificação civil.\nPontos Principais: O documento visa comprovar a identidade do portador, fornecendo dados pessoais essenciais para reconhecimento oficial. É uma das vias do documento plástico.\nInformações Relevantes: Data de Nascimento: 20/11/1956; Filiação: URAHAY SCALIZE GUADAGNINI e JOENCK BRUNHARA MARSICANO; Naturalidade: ATALAIA-AL; Data de Expedição: 23/09/1967; Registro Geral: 85.666.301-3."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:01:49.305380Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 258,
+        "tempo_processamento": 1.33825
+    }
+}

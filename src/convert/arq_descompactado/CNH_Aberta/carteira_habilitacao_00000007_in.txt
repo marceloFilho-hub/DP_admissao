@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira Nacional de Habilitação (CNH) do Brasil, identificada claramente pelos cabeçalhos \"REPÚBLICA FEDERATIVA DO BRASIL\", \"DEPARTAMENTO NACIONAL DE TRÂNSITO\" e \"CARTEIRA NACIONAL DE HABILITAÇÃO\".\nPontos Principais: O documento serve para identificar o portador (DARBELLO POLIZEL PRISCILA) e atestar sua aptidão legal para conduzir veículos automotores no território nacional. Contém dados pessoais, número de registro, validade e categoria da habilitação.\nInformações Relevantes: Nome: DARBELLO POLIZEL PRISCILA, CPF: 003.910.233-57, Data de Nascimento: 11/01/1994, Filiação: HAMER AVELLAR CASSIUS TEIXEIRA e ISMAEL AKYAMA MATOS, Nº REGISTRO: 00655546221, Validade: 07/06/1992, 1ª Habilitação: 03/09/1950, Categoria: C, Local de Emissão: ARARIPE-CE, Data de Emissão: 23/09/1965, Número do Plástico: 203822921, Órgão Emissor: SDS GO (indicado no DOC. IDENTIDADE/ÓRG. EMISSOR/UF)."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:23.799649Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 360,
+        "tempo_processamento": 2.815159
+    }
+}

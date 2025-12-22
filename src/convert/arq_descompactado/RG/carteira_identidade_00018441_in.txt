@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira de Identidade (RG) emitida pela República Federativa do Brasil, especificamente pelo Rio Grande do Sul (RG RS). Elementos como 'REPÚBLICA FEDERATIVA DO BRASIL', 'CARTEIRA DE IDENTIDADE', 'REGISTRO GERAL', e os dados pessoais (Nome: MARIEN GIANNONI CHEBAT, Data de Nascimento: 25/11/2008, Registro: 21.189.823-5) confirmam sua natureza.\nPontos Principais: O documento serve para identificar a portadora, MARIEN GIANNONI CHEBAT, fornecendo seus dados cadastrais essenciais, como filiação, naturalidade e números de registro e CPF.\nInformações Relevantes: Nome: MARIEN GIANNONI CHEBAT; Data de Nascimento: 25/11/2008; Registro Geral (RG): 21.189.823-5; CPF: 916.852.828-06; Local de Emissão: Ibiraçu-ES; Data de Expedição: 26/12/1963 (Nota: A data de expedição parece incorreta para uma pessoa nascida em 2008, sendo um dado atípico no documento); Filiação: NDOMI CAMP HAWTHORNE."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:22.670882Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 338,
+        "tempo_processamento": 1.517002
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é uma Cédula de Identidade (Carteira de Identidade) emitida pelo Estado de Santa Catarina, como indicado pelos cabeçalhos \"ESTADO DE SANTA CATARINA\", \"INSTITUTO GERAL DE PERÍCIA\", \"INSTITUTO DE IDENTIFICAÇÃO\" e \"CARTEIRA DE IDENTIDADE\".\nPontos Principais: O documento serve para comprovar a identidade da titular, JOSIANA AUMILLE, contendo dados pessoais, filiação, naturalidade, data de nascimento, e número de registro.\nInformações Relevantes: Nome: JOSIANA AUMILLE; Registro Geral: 02.222.919-1; Data de Expedição: 18/07/1995; Data de Nascimento: 11/09/1960; Filiação: GUARIENTE HIOK e DALVA ARIS SC; Naturalidade: JURIPIRANGA-PB; CPF: 470.960.715-04; Local de Emissão: TAIAÇU-SP."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:30.039804Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 268,
+        "tempo_processamento": 1.691978
+    }
+}

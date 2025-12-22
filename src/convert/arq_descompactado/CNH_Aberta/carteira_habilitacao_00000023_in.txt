@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira Nacional de Habilitação (CNH), identificada claramente pelo título \"CARTEIRA NACIONAL DE HABILITACAO\" no cabeçalho e pela presença de campos típicos como NOME, CPF, DATA NASCIMENTO, CNH N° REGISTRO, VALIDADE, 1° HABILITAÇÃO, Categoria (CAT. HAB.) e emissor DETRAN MG (Minas Gerais).\nPontos Principais: Este documento comprova a aptidão legal do portador para conduzir veículos automotores em válido território nacional. O documento foi emitido pelo DETRAN de Minas Gerais.\nInformações Relevantes: \nNome: ROGORA PODESTA CARAVATTO\nCPF: 496.126.642-69\nData de Nascimento: 26/12/1973\nN° Registro (CNH): 10298775158\nValidade: 03/09/2010\nData de Emissão: 09/02/1978\nCategoria da Habilitação: AB\nLocal de Emissão: COTEGIPE-BA"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:08.328692Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 368,
+        "tempo_processamento": 1.706384
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) brasileira, conforme indicado pelos termos \"CARTEIRA DE IDENTIDADE\" no topo, o número de registro \"REGISTRO 54.023.647-0\", a \"DATA DE EMISSÃO 19/01/1992\", a \"DATA DE NASCIMENTO 14/12/1955\" e a presença do brasão de um estado (São Paulo, conforme \"ESTADO DE SÃO PAULO\"). A presença de espaços para foto, assinatura e impressão digital também confirma o tipo.\nPontos Principais: Este documento serve para identificação civil do titular, contendo dados pessoais, filiação, data de nascimento e emissão, além de informações de registro e órgão emissor (Instituto de Identificação Ricardo Gumbleton Daunt).\nInformações Relevantes: Nome do titular (parcialmente visível: SUGLUIHZ BENITES ANASTASI), Data de Nascimento: 14/12/1955, Data de Expedição: 19/01/1992, Registro Geral: 54.023.647-0, Órgão Emissor/Estado: ESTADO DE SÃO PAULO."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:26.803705Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 307,
+        "tempo_processamento": 2.691385
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) do Estado de São Paulo, emitido pelo Instituto de Identificação Ricardo Gumbleton Daunt. Isso é indicado pelos cabeçalhos como \"ESTADO DE SÃO PAULO\", \"SECRETARIA DA SEGURANÇA PÚBLICA\", \"INSTITUTO DE IDENTIFICAÇÃO\", a presença de campos como \"REGISTRO GERAL\", \"NOME\", \"FILIAÇÃO\", \"NATURALIDADE\", \"DATA DE NASCIMENTO\", e a solicitação de impressão digital (\"POLEGAR DIREITO\").\nPontos Principais: O documento serve para identificação civil do titular. Contém dados pessoais básicos e informações de emissão.\nInformações Relevantes: Registro Geral: 76.186.438-6; Data de Expedição: 03/03/1959; Data de Nascimento: 12/06/2012 (Observação: A data de nascimento parece incorreta para uma expedição de 1959, sugerindo que este pode ser um documento de segunda via ou um documento emitido para um menor ou com erro de preenchimento/imagem antiga de um documento mais recente com dados incompletos/alterados.); Naturalidade: TUCANO-BA; Filiação: REIDI KIAN PATANE / CAGNI BOZZA IKUKO; Documento de Origem: PRÓPRIA-SE; CMC= BOA ESPERANÇA DO SUL-SP, SEDE; C.NAS=137 LV=34 FL=151."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:36.812007Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 376,
+        "tempo_processamento": 2.943015
+    }
+}

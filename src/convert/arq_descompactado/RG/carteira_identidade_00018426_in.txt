@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento apresentado é claramente uma Carteira de Identidade (RG) brasileira, evidenciado pelos títulos 'CARTEIRA DE IDENTIDADE' e 'ASSINATURA DO TITULAR' na parte superior direita, a presença de campos como 'NOME', 'FILIAÇÃO', 'NATURALIDADE', 'DATA DE NASCIMENTO', 'REGISTRO GERAL', e a menção ao 'INSTITUTO DE IDENTIFICAÇÃO DO PARANÁ'.\nPontos Principais: Este documento serve como prova de identificação civil do titular no Brasil. Contém dados pessoais essenciais e a chancela do órgão emissor.\nInformações Relevantes: \n- Nome: MARION NENIS FACCIONE\n- Filiação: ANGELICO BASSA\n- Naturalidade: ITU-SP\n- Data de Nascimento: 21/12/1959\n- Data de Expedição: 19/02/1976\n- Registro Geral: 55.862.220-0\n- Órgão Emissor/Estado: INSTITUTO DE IDENTIFICAÇÃO DO PARANÁ (PR)\n- Número de Documento de Origem (DOC. ORIGEM): CMC SÃO JERÔNIMO DA SERRA-PR, C.NAS=148 LV=261 FL=14"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:01:37.041892Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 329,
+        "tempo_processamento": 1.512159
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) brasileira, identificada pelos termos \"DETRAN MG (MINAS GERAIS)\", \"REPÚBLICA FEDERATIVA DO BRASIL\", \"MINISTÉRIO DAS CIDADES\", \"DEPARTAMENTO NACIONAL DE TRÂNSITO\" e o formato padrão de uma CNH antiga, incluindo campos como \"Nº REGISTRO\", \"VALIDADE\", \"DATA EMISSÃO\", \"NOME\", \"CPF\", \"FILIAÇÃO\" e \"CAT. HABIL.\".\nPontos Principais: O documento comprova a habilitação de LIGYA NATASKA KOFFLER para conduzir veículos automotores. Ele contém dados de identificação do portador, data de emissão e validade da licença.\nInformações Relevantes: Nome: LIGYA NATASKA KOFFLER; Nº REGISTRO: 45388853041; Validade: 31/07/2012; Data de Nascimento: 29/10/1915; CPF: 451.389.179-35; Filiação: VIRGILIO HOROIWA BUSANELLI / YEH DANELIA ALDENIZE ARAGAO; Categoria (CAT. HABIL.): A; Local de Emissão: PEIXE-TO; Data Emissão: 14/04/1961."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:17.243170Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 351,
+        "tempo_processamento": 1.684651
+    }
+}

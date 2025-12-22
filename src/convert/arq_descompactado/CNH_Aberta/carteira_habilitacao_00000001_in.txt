@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente identificado como uma \"CARTEIRA NACIONAL DE HABILITAÇÃO\" (CNH) da \"REPÚBLICA FEDERATIVA DO BRASIL\" e do \"DEPARTAMENTO NACIONAL DE TRÂNSITO\". Pontos Principais: Este documento oficial comprova a aptidão do portador para conduzir veículos automotores, apresentando dados pessoais e de habilitação. Informações Relevantes: Nome: PESSONI VALDILEI EMY; CPF: 896.630.040-53; Data de Nascimento: 14/05/1996; Nº Registro: 07665700426; Categoria da Habilitação (CAT.HAB): B; Local: CLÁUDIO-MG; Data Emissão: 17/06/2008; Validade: 20/02/2003 (Observação: A validade anterior à data de emissão sugere que este é um documento antigo ou uma reimpressão com dados que podem ser inconsistentes ou desatualizados no contexto de uma CNH moderna, mas a identificação do tipo é inequívoca)."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:08.092193Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 292,
+        "tempo_processamento": 2.381428
+    }
+}

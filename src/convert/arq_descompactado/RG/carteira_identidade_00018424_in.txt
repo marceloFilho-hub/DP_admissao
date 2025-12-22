@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) brasileira, emitido pelo Estado da Bahia, conforme indicado pelos dizeres \"ESTADO DA BAHIA\", \"SECRETARIA DA SEGURANÇA PÚBLICA\" e \"CARTEIRA DE IDENTIDADE\".\nPontos Principais: Este documento serve para identificar oficialmente o portador no território nacional. Ele contém dados pessoais essenciais como nome, filiação, data de nascimento, naturalidade e número de registro (RG).\nInformações Relevantes: Número do RG: 01.741.139-7; Data de Expedição: 31/03/1988; Data de Nascimento: 24/07/1959; Naturalidade: TAGUATINGA-TO; Filiação: VIUDES KUWAJIMA FALCUCCI e BONANNO CARRA PESSINI (Observação: Há uma possível inversão ou erro na rotulagem de 'Filiação' neste formato de RG, onde geralmente constam os nomes dos pais, mas os nomes presentes são: SUCHEUSKI NUZZI PEZZO, VIUDES KUWAJIMA FALCUCCI e BONANNO CARRA PESSINI); CPF: 925.671.185-00; Lei de Emissão: LEI Nº 7.116 DE 29/08/83."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:01:31.649082Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 337,
+        "tempo_processamento": 3.360191
+    }
+}

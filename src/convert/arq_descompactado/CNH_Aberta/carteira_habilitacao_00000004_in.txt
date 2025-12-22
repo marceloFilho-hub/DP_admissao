@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira Nacional de Habilitação (CNH) do Brasil, pois exibe claramente o cabeçalho \"DETRAN MG (MINAS GERAIS)\", um número de registro (635893535), data de validade, dados do condutor e o texto \"CARTEIRA NACIONAL DE HABILITAÇÃO\".\nPontos Principais: O documento serve para identificar o condutor, atestar sua aptidão para dirigir e registrar as categorias de veículos que ele está habilitado a conduzir. Contém informações pessoais do portador, registro profissional e datas de validade.\nInformações Relevantes: Nome do Condutor: PALATIN LAMOGLIE TOSINI; Data de Nascimento: 03/12/1985; CPF: 775.891.530-28; N° Registro: 93592840299; Validade: 17/07/2012; Data Emissão: 07/02/2018; Local: SIMÃO DIAS-SE; Filiação: SUCASAS GROMBONI BERLANDI RAMOS; Nome da Mãe: MERCURIO PULLITTI NETA."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:13.761306Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 307,
+        "tempo_processamento": 1.958022
+    }
+}

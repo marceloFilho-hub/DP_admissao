@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira de Identidade (RG) emitida pelo Estado de Santa Catarina, conforme indicado pelos cabeçalhos 'REPÚBLICA FEDERATIVA DO BRASIL', 'ESTADO DE SANTA CATARINA' e 'CARTEIRA DE IDENTIDADE'. Pontos Principais: O documento serve para identificação civil do titular, contendo dados pessoais, filiação, data de nascimento, naturalidade e número de registro geral (RG). Informações Relevantes: Nome: NELSON SELARIN IGOR; RG (Registro Geral): 76.278.283-3; Data de Expedição: 30/11/1992; Data de Nascimento: 11/02/1998; Naturalidade: ITAINÓPOLIS-PI; Filiação: ELCIO SPACH SACCHIE e ELISIANE REIMAO NOTARIO; CPF: 706.582.012-20."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:57.300176Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 245,
+        "tempo_processamento": 1.295189
+    }
+}

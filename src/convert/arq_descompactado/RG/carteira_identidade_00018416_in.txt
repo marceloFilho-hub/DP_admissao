@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) brasileira, evidenciado pelos termos \"CARTEIRA DE IDENTIDADE\", \"ASSINATURA DO TITULAR\", \"ASSINATURA DO DIRETOR\", \"DATA DE NASCIMENTO\", \"FILIAÇÃO\", \"NATURALIDADE\", \"RG\" (implícito pelo formato), e a presença de um número de registro (\"REGISTRO GERAL\") e informações de emissão de um estado (\"RIO GRANDE DO SUL\").\nPontos Principais: Este é um documento de identificação civil primário, usado para comprovar a identidade do portador no território nacional. O documento parece ser um modelo mais antigo (não plastificado no verso, mas com menção a \"PROIBIDO PLASTIFICAR\" na dobra central) e contém dados pessoais básicos, incluindo nome, filiação, data de nascimento, naturalidade e números de registro.\nInformações Relevantes: \n- Nome: ADENIVALDO AUGUSTIN FL\n- Filiação: LEOPOLDINO ALT\n- Naturalidade: ABÁRA-CE\n- Data de Nascimento: 11/11/2003\n- Data de Expedição: 03/10/2007\n- Registro Geral (RG): 39.558.690-2\n- CPF: 153.424.518-92\n- Órgão Emissor/Estado: RIO GRANDE DO SUL (com menção a Instituto-Geral de Perícias)"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:51.222517Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 373,
+        "tempo_processamento": 2.756495
+    }
+}

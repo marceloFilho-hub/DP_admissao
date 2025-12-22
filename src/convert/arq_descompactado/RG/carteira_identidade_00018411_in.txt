@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira de Identidade (RG) do Estado de São Paulo, como indicado pelos textos \"ESTADO DE SÃO PAULO\", \"SECRETARIA DA SEGURANÇA PÚBLICA\", \"INSTITUTO DE IDENTIFICAÇÃO\" e a menção ao \"REGISTRO GERAL\".\nPontos Principais: O objetivo do documento é servir como identificação civil do titular. A frente (visível) contém dados cadastrais e a foto do portador.\nInformações Relevantes: Data de Expedição: 11/07/1957; Data de Nascimento: 07/10/1977; Nome: RAMPIN ANUNCIATO CERAVOLO; Filiação: ENTINI HOLTZ SCHACHTER; Naturalidade: LAVINIA-SP; Registro Geral (RG): 04.186.980-1; Órgão Emissor: AUREA-RS; Informações Adicionais: CMC= BARREIROS-PE, SEDE, C.NAS=264 LV=200 FL=236. A parte de trás contém a inscrição \"PROIBIDO PLASTIFICAR\"."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:38.985863Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 292,
+        "tempo_processamento": 1.776605
+    }
+}

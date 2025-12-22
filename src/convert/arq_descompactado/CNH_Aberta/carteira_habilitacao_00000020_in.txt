@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) brasileira, como indicado pelos cabeçalhos \"REPÚBLICA FEDERATIVA DO BRASIL\", \"MINISTÉRIO DAS CIDADES\", \"DEPARTAMENTO NACIONAL DE TRÂNSITO\" e \"CARTEIRA NACIONAL DE HABILITAÇÃO\". Pontos Principais: Este documento oficial serve para comprovar a aptidão legal do portador para conduzir veículos automotores no território nacional. Contém informações pessoais, de registro e de validade da habilitação. Informações Relevantes: Nome: BINI SPADOTO TELMA; CPF: 111.060.240-52; Data de Nascimento: 14/08/1977; Nº Registro: 92536413061; Categoria Habilitação (CAT. HAB.): E; Local de Emissão: ITUAÇU-BA; Data de Emissão: 09/05/2007."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:03.332678Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 255,
+        "tempo_processamento": 2.31217
+    }
+}

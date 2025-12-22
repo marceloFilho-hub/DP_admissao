@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) do Brasil, pois exibe o título \"CNH - CARTEIRA NACIONAL DE HABILITAÇÃO\" (embora um pouco ilegível, o formato e os campos são inequívocos), número de registro (331489407), dados pessoais como nome (NUARA ROKAY DELBONI), data de nascimento (07/04/2006), e informações de registro como data de expedição (12/02/2016) e órgão expedidor. Pontos Principais: O documento serve como identificação oficial do condutor e autorização para dirigir veículos automotores no território nacional. Informações Relevantes: Número do Registro: 331489407; Nome: NUARA ROKAY DELBONI; Data de Nascimento: 07/04/2006; Data de Expedição: 12/02/2016; Inscrição: 6561444558; Número CNH/Documento de Identidade (parcial): 9T27857T1 (DOC RG)."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:00.023309Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 295,
+        "tempo_processamento": 2.140266
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) brasileira, emitida pelo Estado do Maranhão, pois exibe o título \"CARTEIRA DE IDENTIDADE\", a bandeira da \"REPÚBLICA FEDERATIVA DO BRASIL\" e informações típicas deste documento como Nome, Filiação, Naturalidade, Data de Nascimento, CPF e número de Registro Geral.\nPontos Principais: O documento serve para identificação civil do titular, contendo dados pessoais cruciais e a chancela do órgão emissor (Instituto de Identificação da Polícia Civil do Maranhão).\nInformações Relevantes: Nome: HASHIDA AGNEZ FUZIKI; Filiação: VENEGA TASSIS RENZETTI CARDONE MARRANGHELLO AISMOTO; Naturalidade: LASSANCE-MG; Data de Nascimento: 12/04/1992; Data de Expedição: 29/07/1954; CPF: 598.624.238-62; Registro Geral: 18.447.108-4."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:04.678059Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 274,
+        "tempo_processamento": 3.751615
+    }
+}

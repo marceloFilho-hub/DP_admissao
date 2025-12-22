@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) brasileira, evidenciado pelos campos como 'ASSINATURA DO TITULAR', 'NATURALIDADE', 'DATA DE NASCIMENTO', 'NOME', e a menção ao 'INSTITUTO DE IDENTIFICAÇÃO DO PARANÁ' na parte inferior, que são características padrão deste tipo de documento oficial de identificação civil. Pontos Principais: O documento serve para comprovar a identidade civil do portador no Brasil. A imagem mostra o verso (ou uma parte dele) contendo dados pessoais, impressão digital ('POLEGAR DIREITO') e informações de emissão. Informações Relevantes: Data de Expedição: 18/09/1993; Data de Nascimento: 03/09/2013 (Nota: A data de nascimento parece ser posterior à data de expedição, indicando que pode ser um documento de menor, ou que houve erro na transcrição/impressão na época); Número de Registro Geral (parcialmente visível): 48.332.042-0; Naturalidade: ITU-SP; Nome (parcialmente visível): CLAREANA ZEMLICKAS FONTELA."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:01:59.561924Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 294,
+        "tempo_processamento": 2.938638
+    }
+}

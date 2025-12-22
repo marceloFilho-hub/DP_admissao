@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) emitida pelo Estado do Rio de Janeiro, conforme indicado pelos textos \"ESTADO DO RIO DE JANEIRO\", \"SECRETARIA DE ESTADO DA CASA CIVIL\", \"DETRAN - DIRETORIA DE IDENTIFICAÇÃO CIVIL\" e o título \"CARTEIRA DE IDENTIDADE\". Pontos Principais: Este documento serve para identificação civil do portador no Brasil, contendo informações pessoais essenciais. Informações Relevantes: Nome: PLINIO BARRILAO OYAGAWA FILOC COMO. Registro Geral (RG): 52.852.956-0. Data de Nascimento: 04/07/1973. Local de Nascimento: CANUTAMA AM (Canutama, Amazonas). Data de Expedição: 21/02/1973. Observações: Contém campos para digital (\"Polegar Direito\") e assinatura do titular (\"Assinatura do Titular\")."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:01:17.618834Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 244,
+        "tempo_processamento": 12.941733
+    }
+}

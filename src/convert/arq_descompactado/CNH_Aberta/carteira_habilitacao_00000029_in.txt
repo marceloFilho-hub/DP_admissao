@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) brasileira, conforme indicado pelos textos 'REPUBLICA FEDERATIVA DO BRASIL', 'DEPARTAMENTO NACIONAL DE TRANSITO', 'CARTEIRA NACIONAL DE HABILITACAO' e a estrutura padrão do documento.\nPontos Principais: Este documento serve como prova oficial de habilitação para conduzir veículos automotores no território nacional. Ele contém dados pessoais do condutor, informações sobre a categoria da habilitação e suas datas de validade e emissão.\nInformações Relevantes: \n- Número da CNH: 457668749\n- Nome do Portador: VOLPATTO MAZOCA FOGO (Nome parcialmente obscurecido, mas a estrutura é visível)\n- Data de Nascimento: 18/06/1981\n- CPF: 636.246.139-87\n- Data de Validade (do documento): 22/05/2016\n- Data da 1ª Habilitação: 20/07/2019 (Observação: A data de 1ª Habilitação ser posterior à validade do documento sugere que o documento mostrado pode ser uma versão antiga/reemitida ou há uma anomalia nos campos, mas a natureza do documento é CNH).\n- Data de Emissão: 31/08/2016\n- Órgão Emissor/UF: DETRAN MG (MINAS GERAIS) / SEJ\n- Categoria da Habilitação: A"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:25.287432Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 389,
+        "tempo_processamento": 1.90519
+    }
+}

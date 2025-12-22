@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) emitida pelo Estado de Santa Catarina, conforme indicado pelos títulos \"REPÚBLICA FEDERATIVA DO BRASIL\", \"ESTADO DE SANTA CATARINA\", e a estrutura típica do documento de identificação brasileiro, incluindo campos como REGISTRO GERAL, NOME, FILIAÇÃO, DATA DE NASCIMENTO e CPF. Pontos Principais: Este documento serve para identificar a portadora, SOAF LAURETTA COSTADELLA. O objetivo principal é comprovar a identidade civil da pessoa. Informações Relevantes: Nome: SOAF LAURETTA COSTADELLA; Filiação: OUTEDA PAGANI KIST, MITHE ETSUKO ESTIMO; Data de Nascimento: 04/06/1975; Registro Geral: 30.662.356-0; CPF: 068.510.245-86; Naturalidade: OURO PRETO-MG; Documento de Origem: C.NAS=221 LV=292 FL=206 CMC= ANGELINA-SC, COM AVRB DIVORCIO; Local de Expedição: SUZANAPÓLIS-SP; Data de Expedição: 09/09/1966."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:07.356438Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 316,
+        "tempo_processamento": 1.556407
+    }
+}

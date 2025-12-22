@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) do Rio Grande do Sul, Brasil, devido à presença de termos como \"REPÚBLICA FEDERATIVA DO BRASIL\", \"RIO GRANDE DO SUL\", \"SECRETARIA DA SEGURANÇA PÚBLICA\", \"INSTITUTO GERAL DE PERÍCIAS\", \"DEPARTAMENTO DE IDENTIFICAÇÃO\", \"CARTEIRA DE IDENTIDADE\" e a estrutura típica de um documento de identificação oficial com foto e registro.\n\nPontos Principais: O documento serve como prova de identidade oficial do portador, contendo dados pessoais, filiação, naturalidade, data de expedição e número de registro. O objetivo principal é a identificação civil.\n\nInformações Relevantes: \n- Órgão Emissor: Rio Grande do Sul (RS)\n- Registro Geral (RG): 67.766.297-1\n- Nome: MARCHESI TAKEUSHI REPET\n- Filiação: MONOMI LUCELE TOMO\n- Data de Nascimento: 27/04/2019\n- Data de Expedição: 01/03/1952 (Observação: A data de expedição ser anterior à data de nascimento pode indicar um erro de preenchimento ou uso de um documento antigo/modificado para fins de exemplo, mas o formato é de um RG.)\n- Naturalidade: COTEGIPE-BA\n- CPF: 677.478.082-24"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:15.256102Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 373,
+        "tempo_processamento": 1.650051
+    }
+}

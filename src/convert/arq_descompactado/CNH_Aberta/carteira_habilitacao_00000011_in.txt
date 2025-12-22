@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira Nacional de Habilitação (CNH), conforme indicado claramente no cabeçalho \"DEPARTAMENTO NACIONAL DE TRANSITO\" e \"CARTEIRA NACIONAL DE HABILITACAO\".\nPontos Principais: O documento comprova a aptidão do indivíduo KENITH SERGIO NEIRE para conduzir veículos automotores, fornecendo dados de identificação pessoal, registro e validade da habilitação.\nInformações Relevantes: Nome: KENITH SERGIO NEIRE; CPF: 460.635.711-83; Data de Nascimento: 31/08/1966; Nº Registro: 14604234787; Data de Emissão: 25/04/2011; Categoria da Habilitação: B; Local de Emissão: TOMAR DO GERU-SE."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:35.331096Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 232,
+        "tempo_processamento": 2.411297
+    }
+}

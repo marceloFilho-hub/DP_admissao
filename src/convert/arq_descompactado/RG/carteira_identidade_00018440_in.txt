@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) do Brasil, emitido pelo Estado de São Paulo, contendo informações típicas como nome completo (\"GRAZZIANO BACCAGLINI QU\"), data de nascimento (\"13/06/1954\"), filiação, naturalidade (\"NAQUE-MG\"), CPF, registro geral (\"77.389.486-6\"), e a menção a órgãos emissores como o Instituto de Identificação e Secretaria da Segurança Pública. O formato e os campos são característicos deste tipo de documento oficial de identificação civil. Pontos Principais: O documento tem como objetivo principal comprovar a identidade do portador (GRAZZIANO BACCAGLINI QU). Informações Relevantes: Nome: GRAZZIANO BACCAGLINI QU. Data de Nascimento: 13/06/1954. Data de Expedição: 03/03/1994. Registro Geral: 77.389.486-6. Naturalidade: NAQUE-MG. CPF: 833.737.829-88. Órgão Emissor: INSTITUTO DE IDENTIFICAÇÃO/SECRETARIA DA SEGURANÇA PÚBLICA DO ESTADO DE SÃO PAULO."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:20.154412Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 322,
+        "tempo_processamento": 1.427553
+    }
+}

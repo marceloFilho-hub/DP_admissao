@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) do Paraná, pois exibe o cabeçalho \"SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA INSTITUTO DE IDENTIFICAÇÃO DO PARANÁ\", o número de registro geral, nome, filiação, naturalidade, data de nascimento, e a informação \"CARTEIRA DE IDENTIDADE\" na parte inferior. Pontos Principais: Este documento serve para identificar o cidadão, contendo dados pessoais básicos, filiação, data de emissão e validade nacional. Informações Relevantes: Nome: FUCHES MALULY PLENSACK RAMOS; Registro Geral: 59.819.744-8; Data de Nascimento: 28/07/2006; Data de Expedição: 08/03/1980; CPF: 982.629.264-80; Naturalidade: SETUBINHA-MG; Órgão Emissor: CMC= JARDIM DE ANGICOS-RN, SEDE."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:44.044188Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 264,
+        "tempo_processamento": 1.258906
+    }
+}

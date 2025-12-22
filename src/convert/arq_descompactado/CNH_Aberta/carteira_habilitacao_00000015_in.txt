@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) brasileira, como indicado pelo título \"REPÚBLICA FEDERATIVA DO BRASIL\", \"DEPARTAMENTO NACIONAL DE TRÂNSITO\" e \"CARTEIRA NACIONAL DE HABILITAÇÃO\". Pontos Principais: O documento serve para comprovar a aptidão legal do portador para conduzir veículos automotores no Brasil. Informações Relevantes: Nome do portador: MOBIGLIA YABUKI LIDANORI. Data de Nascimento: 24/03/1961. CPF: 217.698.758-67. Número de Registro: 39586986971. Validade: 29/07/1977 (Nota: Esta data de validade parece ser histórica ou relacionada a um registro antigo, mas o documento é visualmente uma CNH). Data de Emissão: 23/04/2013. Categoria da Habilitação: B. Local de Emissão: APIAÍ-SP (apesar de o emissor ser DETRAN MG - MINAS GERAIS)."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:45.237797Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 289,
+        "tempo_processamento": 1.413984
+    }
+}

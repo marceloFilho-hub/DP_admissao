@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) emitida pelo Estado de São Paulo (REPÚBLICA FEDERATIVA DO BRASIL, ESTADO DE SÃO PAULO, SECRETARIA DA SEGURANÇA PÚBLICA, INSTITUTO DE IDENTIFICAÇÃO). A presença de campos como REGISTRO, NOME, DATA DE NASCIMENTO, NATURALIDADE, ÓRGÃO EMISSOR (G.D.O. ORIGEM, C.N.A.S, UF, LV, FL) e a menção explícita a \"CARTEIRA DE IDENTIDADE\" confirmam a classificação.\nPontos Principais: Este documento serve para identificação civil do cidadão no Brasil, emitido por um órgão de identificação estadual. Ele contém dados pessoais fundamentais do titular.\nInformações Relevantes: Nome: KUROTORI SASAOKA WESLEI. Registro Geral: 33.403.982-4. Data de Nascimento: 17/08/1959. Local de Origem: UBÁ-MG. Filiação: BRUNING KIRIL CHALEGRE MENEGHISSE KEITI FONTANARI. Data de Expedição: 11/03/1985."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:47.426336Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 307,
+        "tempo_processamento": 1.86705
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é classificado como 'carteira_identidade' pois exibe características típicas de um Registro Geral (RG) brasileiro, como a menção 'REPÚBLICA FEDERATIVA DO BRASIL', 'ESTADO DO MARANHÃO', 'CARTEIRA DE IDENTIDADE', 'DATA DE NASCIMENTO', 'FILIAÇÃO', 'NATURALIDADE', 'CPF', e a presença de uma foto e área para impressão digital (polegar direito).\nPontos Principais: O documento é a cédula de identidade (RG) de uma cidadã, contendo seus dados pessoais de identificação emitidos pelo Estado do Maranhão. O documento é uma segunda via ('2 VIA').\nInformações Relevantes: \n- Data de Expedição: 27/06/2019\n- Data de Nascimento: 21/12/1955\n- Nome: WAHL SANTANELLI BOLZAN\n- Filiação: ELY GERONIMO AUDREY PERGOLA ROLD\n- Naturalidade: IBICUÍTINGA-CE\n- CPF: 391.223.553-83\n- Órgão Emissor/UF: ITA-SC NH 54\n- Assinatura do Diretor: VILMAR ISHIZU A, LEI N° 7.116 DE 29/08/83"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:01:24.819790Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 347,
+        "tempo_processamento": 5.920722
+    }
+}

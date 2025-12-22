@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) do Rio Grande do Sul, conforme indicado pelos cabeçalhos \"REPÚBLICA FEDERATIVA DO BRASIL\", \"RIO GRANDE DO SUL\", \"SECRETARIA DA SEGURANÇA PÚBLICA\" e o rodapé \"CARTEIRA DE IDENTIDADE\".\nPontos Principais: O documento tem como objetivo identificar a portadora, fornecendo dados pessoais como nome, filiação, data de nascimento, naturalidade e número de registro geral.\nInformações Relevantes: \n- Órgão Emissor: RIO GRANDE DO SUL / SECRETARIA DA SEGURANÇA PÚBLICA / INSTITUTO-GERAL DE PERÍCIAS DEPARTAMENTO DE IDENTIFICAÇÃO\n- Registro Geral: 23.743.631-0\n- Nome: MICHELETTE SHIGUEYUKI\n- Filiação: WIEZEL JACOPUCC, NOVARETTI ENRIC RO\n- Data de Nascimento: 01/01/1950\n- Naturalidade: SINIMBU-RS\n- Data de Expedição: 02/12/2009\n- CPF (parcialmente visível): 585.757.324-63\n- Lei de Emissão: LEI Nº 7.116 DE 29/08/83"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:09.897692Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 352,
+        "tempo_processamento": 1.48366
+    }
+}

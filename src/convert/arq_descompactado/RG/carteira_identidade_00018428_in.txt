@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) brasileira, pois exibe em destaque os termos \"CARTEIRA DE IDENTIDADE\" no topo direito e contém elementos típicos como foto, impressão digital (\"Polegar Direito\"), nome do titular (\"FACHETTI SAPRAGONAS EDVAN\"), filiação, data de nascimento, naturalidade, órgão expedidor (\"DETRAN - DIRETORIA DE IDENTIFICAÇÃO CIVIL\"), e validade. Pontos Principais: O documento serve para comprovar a identidade civil do indivíduo no Brasil. Ele registra dados pessoais essenciais do portador. Informações Relevantes: Nome do Titular: FACHETTI SAPRAGONAS EDVAN; Data de Nascimento: 03/01/2002; Naturalidade: LAGOA DO SÍTIO-PI; Órgão Expedidor: DETRAN - DIRETORIA DE IDENTIFICAÇÃO CIVIL (Estado do Rio de Janeiro). A via mostrada parece ser a segunda via (\"6 VIA\")."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:01:42.945468Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 250,
+        "tempo_processamento": 2.005457
+    }
+}

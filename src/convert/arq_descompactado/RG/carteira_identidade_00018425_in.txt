@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) brasileira, pois apresenta os cabeçalhos \"CARTEIRA DE IDENTIDADE\", \"ASSINATURA DO TITULAR\", \"ÓRGÃO EMISSOR\" (indicado por inscrições como \"SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA INSTITUTO DE IDENTIFICAÇÃO DO PARANÁ\"), registro geral, filiação, data de nascimento, filiação, e um campo para impressão digital (\"POLEGAR DIREITO\").\nPontos Principais: Este documento serve para identificar a titular, BER TOLUZZI CALOCHI HEIDY, emitido pelo Instituto de Identificação do Paraná, contendo dados cadastrais básicos e biométricos.\nInformações Relevantes: Nome: BER TOLUZZI CALOCHI HEIDY; Data de Nascimento: 31/10/1980; Registro Geral: 83.296.226-0; Data de Expedição: 18/01/1973; Filiação: HARUMMY SIENBA PALTRINIERI; Naturalidade: JUNDIAÍ-AL; Órgão Emissor/Estado: C.NAS=275 LV=209 FL=483, CMC= AMAPORÃ-PR, SEDE."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:01:34.406071Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 322,
+        "tempo_processamento": 1.509765
+    }
+}

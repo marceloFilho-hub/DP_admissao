@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) do Brasil, identificada por \"DETRAN MG (MINAS GERAIS)\", \"CARTEIRA NACIONAL DE HABILITACAO\" e a presença de campos como \"Nº REGISTRO\", \"VALIDADE\", \"DATA NASCIMENTO\", \"CPF\", categorias de habilitação (\"CAT.HAB.\"), e número de registro (\"616637684\").\nPontos Principais: O documento serve para identificar o portador como um condutor habilitado a dirigir veículos no território nacional, com validade e restrições especificadas.\nInformações Relevantes: \nNome: CARMONA VIRGINIO KALFA\nData de Nascimento: 24/05/2007\nCPF: 779.203.620-08\nNº Registro: 78905371008\nData de Validade: 21/05/1973 (Nota: A data de validade parece inconsistente com a data de nascimento, mas o campo está presente).\nCategoria da Habilitação: E\nÓrgão Emissor: DETRAN MG (MINAS GERAIS)\nData de Emissão: 25/07/1966 (Nota: A data de emissão parece inconsistente com a data de nascimento e validade).\nNúmero de Controle/Série: 3566821867"
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:22.288445Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 365,
+        "tempo_processamento": 1.754166
+    }
+}

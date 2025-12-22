@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) devido a referências como \"REPUBLICA FEDERATIVA DO BRASIL\", \"DEPARTAMENTO NACIONAL DE TRANSITO\", presença de campos como \"NOME\", \"Nº DOC IDENTIDADE / ORG EMISSOR\", \"CPF\", \"DATA NASCIMENTO\", \"VALIDA EM TODO O TERRITORIO NACIONAL\" e a menção a categorias de habilitação (\"CAT. D\").\nPontos Principais: Trata-se de um documento de identificação oficial que comprova a aptidão de um indivíduo para conduzir veículos automotores no território nacional. O documento apresenta dados pessoais, registro de habilitação e informações de emissão/validade.\nInformações Relevantes: \nNúmero da CNH (Aparentemente): 744844666\nNome: MOURA GIANNOTTI ANNESINI\nData de Nascimento: 04/05/1982\nDocumento de Identidade (RG): 969517294\nCPF: 709.266.418-75\nLocal de Emissão: ITAGUARA - BA\nData de Emissão: 25/03/1951 (Nota: A data de emissão é inconsistente com a data de nascimento, o que pode indicar um campo de registro antigo ou erro de leitura/registro no documento)\nCategoria da Habilitação: D\nValidade: 21/11/1997 (Data de renovação/vencimento parece estar registrada neste campo, também inconsistente com o ano atual, indicando um documento antigo ou um campo específico de registro interno como o campo \"VALIDADE\" antigo da CNH).\nÓrgão de Emissão (Local): DETRAN MG (MINAS GERAIS) - Embora o local de emissão primário seja BA, o registro de órgão emissor lateral indica MG."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:54.255938Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 468,
+        "tempo_processamento": 4.914949
+    }
+}

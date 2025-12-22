@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é uma Carteira Nacional de Habilitação (CNH) do Brasil, conforme indicado pelo cabeçalho \"REPÚBLICA FEDERATIVA DO BRASIL\", \"DEPARTAMENTO NACIONAL DE TRÂNSITO\" e \"CARTEIRA NACIONAL DE HABILITAÇÃO\".\nPontos Principais: O documento comprova a identificação e a permissão legal para dirigir do portador, DÁVILA KLEINDIENST RHUANN. Contém dados pessoais, número de registro, categorias de habilitação e datas de validade.\nInformações Relevantes: Nome: DÁVILA KLEINDIENST RHUANN; CPF: 040.685.722-91; Data de Nascimento: 06/04/2010 (Nota: Esta data parece incorreta para um documento de habilitação ativo, mas está registrada no campo Data Nascimento); Validade da CNH: 12/03/1972 (Nota: Esta data também parece incorreta para a validade, mas está registrada no campo VALIDADE); 1ª Habilitação: 03/06/1997; Categoria Habilitação: B; Local de Emissão: CRUZEIRO DO SUL-RS; Data Emissão Geral: 28/02/2018; Número de Registro: 07740680597; Número de Identidade: 556123633."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:40.779064Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 359,
+        "tempo_processamento": 1.819427
+    }
+}

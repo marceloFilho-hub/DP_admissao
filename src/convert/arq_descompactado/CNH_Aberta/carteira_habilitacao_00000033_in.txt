@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) brasileira, contendo informações típicas como nome do portador (KLEDIR BARUH VICHIN), número de registro (95233058910), data de nascimento (16/06/1977), categoria da habilitação (D), órgãos emissores (DETRAN-MG), e campos para assinaturas. Pontos Principais: O objetivo do documento é atestar a aptidão do indivíduo para dirigir veículos automotores no território nacional. Informações Relevantes: Nome: KLEDIR BARUH VICHIN; Data de Nascimento: 16/06/1977; Categoria da Habilitação: D; Número de Registro: 95233058910; Validade: 26/10/1959 (Nota: A validade pode estar incorreta ou ser um campo de uma versão mais antiga da CNH, mas o campo existe); Data de Emissão (do verso visível): 25/03/1998."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:00:36.186246Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 275,
+        "tempo_processamento": 1.430659
+    }
+}

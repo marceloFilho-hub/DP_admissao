@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente identificado como uma 'CARTEIRA DE IDENTIDADE' na lateral esquerda e contém elementos típicos como foto, filiação, data de nascimento e número de registro geral (RG) emitido por um órgão de identificação (\"INSTITUTO DE IDENTIFICAÇÃO\"). Pontos Principais: Trata-se de um documento oficial de identificação civil brasileiro (RG), emitido pelo Estado de São Paulo. O objetivo principal é comprovar a identidade do portador. Informações Relevantes: Nome: FUENTES PETRY MIGLIAVACCA. Registro Geral (RG): 90.569.007-2. Data de Expedição: 09/07/1976. Data de Nascimento: 15/03/2009. Naturalidade: AÇU-RN. Filiação: BURGOS ESTEVON PIVETTA GONÇALES STAGETTI."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:02:17.700875Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 232,
+        "tempo_processamento": 1.340802
+    }
+}

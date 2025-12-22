@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_habilitacao",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira Nacional de Habilitação (CNH) brasileira, identificado pelo cabeçalho \"REPÚBLICA FEDERATIVA DO BRASIL MINISTÉRIO DAS CIDADES DEPARTAMENTO NACIONAL DE TRÂNSITO CARTEIRA NACIONAL DE HABILITAÇÃO\".\nPontos Principais: Este documento comprova a permissão do indivíduo para conduzir veículos automotores no território nacional. Contém dados pessoais, registro e validade da habilitação.\nInformações Relevantes: Nome do Portador: ESCRITORIO GALAS FONTENELLE; CPF: 317.221.430-37; Data de Nascimento: 14/10/1972; Órgão Emissor/UF: POF/SP; Nº Registro: 96814001100; Validade: 06/01/1970; 1ª Habilitação: 22/04/1974; Categoria da Habilitação (CAT. HAB): AB; Local de Emissão: VARJÃO-GO; Data de Emissão: 30/03/1975; Número de Plástico: 441685960."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T21:59:19.703400Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 314,
+        "tempo_processamento": 1.498412
+    }
+}

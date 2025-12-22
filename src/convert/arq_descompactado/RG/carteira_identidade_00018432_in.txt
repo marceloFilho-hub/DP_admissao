@@ -1,0 +1,13 @@
+{
+    "data": {
+        "document_category": "carteira_identidade",
+        "document_description": "Justificativa da Classificação: O documento é claramente uma Carteira de Identidade (RG) emitida pelo Estado de São Paulo, conforme indicado pelos textos \"CARTEIRA DE IDENTIDADE\", \"REPÚBLICA FEDERATIVA DO BRASIL\", \"ESTADO DE SÃO PAULO\" e \"INSTITUTO DE IDENTIFICAÇÃO RICARDO GUMBLETON DAUNT\".\n\nPontos Principais: Este é um documento oficial de identificação civil brasileiro, contendo informações pessoais do portador, como nome, data de nascimento, filiação e dados de registro.\n\nInformações Relevantes: Nome: FUSTER ALEGRETTI MANGUINO; Data de Nascimento: 20/11/1982; Filiação: AIO MACHION MISAO BOZZINI MAGRO; Naturalidade: URU-SP; Registro Geral (RG): 01.397.969-3; Data de Expedição: 12/08/1962 (Nota: A data de expedição é anterior à data de nascimento registrada, o que é incomum para um RG moderno, mas os dados estão presentes no campo correspondente à expedição/registro, que pode estar truncado ou representar outra data relevante como a data limite do registro na época de emissão, dada a data de nascimento em 1982 e a validade nacional).\nObservação: Há um aviso \"NÃO PLASTIFICAR\" e informações sobre o órgão emissor (\"SECRETARIA DA SEGURANÇA PÚBLICA\")."
+    },
+    "metadata": {
+        "versao_modelo": "gemini-2.5-flash-lite-preview-09-2025",
+        "extraido_em": "2025-12-19T22:01:55.290882Z",
+        "tokens_entrada": 529,
+        "tokens_saida": 361,
+        "tempo_processamento": 1.925756
+    }
+}
